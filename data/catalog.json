@@ -1,0 +1,44 @@
+{
+  "channelUrl": "https://www.youtube.com/channel/UCTzl2vYpWCOkWnG0KRNEAzQ/",
+  "generatedAt": null,
+  "games": [
+    {
+      "id": "example-crimson-desert",
+      "title": "Crimson Desert",
+      "description": "Guías, trofeos y secretos de Crimson Desert.",
+      "thumbnail": "",
+      "updatedAt": "2026-10-14",
+      "videos": [
+        {
+          "title": "Cómo recuperar la espada Portador Acechasombras si la vendiste",
+          "url": "https://www.youtube.com/",
+          "thumbnail": "",
+          "publishedAt": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "id": "example-f1-25",
+      "title": "F1 25",
+      "description": "Guía completa del platino de F1 25.",
+      "thumbnail": "",
+      "updatedAt": "2026-10-11",
+      "videos": [
+        {
+          "title": "Guía completa del platino de F1 25",
+          "url": "https://www.youtube.com/",
+          "thumbnail": "",
+          "publishedAt": "2026-10-11"
+        }
+      ]
+    },
+    {
+      "id": "example-wolverine",
+      "title": "Marvel's Wolverine",
+      "description": "Guías de trofeos, coleccionables y secretos.",
+      "thumbnail": "",
+      "updatedAt": "2026-10-10",
+      "videos": []
+    }
+  ]
+}

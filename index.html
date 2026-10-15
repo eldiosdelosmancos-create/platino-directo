@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#0b0b0e">
+  <meta name="description" content="Encuentra guías de trofeos y platino para PlayStation. Busca tu juego y accede directamente a los vídeos de la guía.">
+  <title>Platino Directo — Guías de trofeos y platino</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="Platino Directo, inicio"><span class="brand-mark">P</span><span>PLATINO<span class="brand-red">DIRECTO</span></span></a>
+    <a class="youtube-link" href="https://www.youtube.com/" target="_blank" rel="noopener">▶ YouTube</a>
+  </header>
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="dot"></span> TU BIBLIOTECA DE TROFEOS</p>
+        <h1>Tu próximo<br><span>platino</span> empieza aquí.</h1>
+        <p class="hero-sub">Encuentra el juego, localiza la guía y ve directo al vídeo que necesitas.</p>
+        <label class="search-wrap"><span class="search-icon">⌕</span><input id="search" type="search" placeholder="Busca un juego o una guía…" autocomplete="off" aria-label="Buscar juegos y guías"><kbd>/</kbd></label>
+        <div class="hero-stats"><span><b id="game-count">—</b> juegos</span><i></i><span><b id="video-count">—</b> vídeos</span></div>
+      </div>
+      <div class="hero-art" aria-hidden="true"><div class="ring ring-one"></div><div class="ring ring-two"></div><div class="trophy">♛</div><div class="hero-glow"></div><span class="art-label">100% COMPLETADO</span></div>
+    </section>
+    <section class="toolbar">
+      <div><p class="section-kicker">LA COLECCIÓN</p><h2>Encuentra tu guía</h2></div>
+      <div class="filters"><button class="filter active" data-filter="all">Todos</button><button class="filter" data-filter="recent">Añadidos recientemente</button></div>
+    </section>
+    <section id="games" class="games-grid" aria-live="polite"></section>
+    <div id="empty" class="empty hidden"><span>⌕</span><h3>No encontramos ese juego</h3><p>Prueba con otro nombre.</p></div>
+    <section class="youtube-cta"><div class="cta-icon">▶</div><div><h3>¿Prefieres ver las guías en vídeo?</h3><p>Encuentra todas las guías directamente en el canal.</p></div><a id="channel-link" href="https://www.youtube.com/" target="_blank" rel="noopener">Visitar canal ↗</a></section>
+  </main>
+  <footer><a class="brand footer-brand" href="#"><span class="brand-mark">P</span><span>PLATINO<span class="brand-red">DIRECTO</span></span></a><span>Guías de trofeos, sin rodeos.</span><span>© <span id="year"></span> Platino Directo</span></footer>
+  <dialog id="game-dialog"><button class="dialog-close" id="close-dialog" aria-label="Cerrar">×</button><div id="dialog-content"></div></dialog>
+  <script src="app.js"></script>
+</body>
+</html>
