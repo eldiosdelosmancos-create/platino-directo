@@ -1,14 +1,20 @@
 {
   "channelUrl": "https://www.youtube.com/channel/UCTzl2vYpWCOkWnG0KRNEAzQ",
-  "generatedAt": "2026-10-16T13:03:49.751Z",
+  "generatedAt": "2026-10-16T18:56:32.536Z",
   "games": [
     {
       "id": "PLri3WTYegpZCaoH1q6BjhMgVxFbQFzUo7",
       "title": "Arknights: Endfield",
       "description": "Gameplays y guías de Arknights: Endfield",
-      "thumbnail": "https://i.ytimg.com/vi/IF1zOx_zYvk/maxresdefault.jpg",
-      "updatedAt": "2026-10-16T08:03:51Z",
+      "thumbnail": "https://i.ytimg.com/vi/uEop9IK8KCc/maxresdefault.jpg",
+      "updatedAt": "2026-10-16T18:19:26Z",
       "videos": [
+        {
+          "title": "PLANOS para la GRANJA / RANCHO nivel AVANZADO (Posada nivel 3-4) | Arknights: Endfield 1.6",
+          "url": "https://www.youtube.com/watch?v=uEop9IK8KCc",
+          "thumbnail": "https://i.ytimg.com/vi/uEop9IK8KCc/maxresdefault.jpg",
+          "publishedAt": "2026-10-16T18:19:26Z"
+        },
         {
           "title": "Arknights: Endfield 1.6 - Posadero de Yuanyuan II (Posada al nivel 3)",
           "url": "https://www.youtube.com/watch?v=IF1zOx_zYvk",
