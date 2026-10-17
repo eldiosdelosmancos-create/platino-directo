@@ -1,14 +1,20 @@
 {
   "channelUrl": "https://www.youtube.com/channel/UCTzl2vYpWCOkWnG0KRNEAzQ",
-  "generatedAt": "2026-10-17T12:54:45.534Z",
+  "generatedAt": "2026-10-17T18:48:09.646Z",
   "games": [
     {
       "id": "PLri3WTYegpZCaoH1q6BjhMgVxFbQFzUo7",
       "title": "Arknights: Endfield",
       "description": "Gameplays y guías de Arknights: Endfield",
-      "thumbnail": "https://i.ytimg.com/vi/bwYMmCpR49Y/maxresdefault.jpg",
-      "updatedAt": "2026-10-17T06:13:42Z",
+      "thumbnail": "https://i.ytimg.com/vi/ghaS6jHE3s8/maxresdefault.jpg",
+      "updatedAt": "2026-10-17T16:26:22Z",
       "videos": [
+        {
+          "title": "Ubicación de los 101 Cofres de Pintura de Si | Arknights: Endfield 1.6",
+          "url": "https://www.youtube.com/watch?v=ghaS6jHE3s8",
+          "thumbnail": "https://i.ytimg.com/vi/ghaS6jHE3s8/maxresdefault.jpg",
+          "publishedAt": "2026-10-17T16:26:22Z"
+        },
         {
           "title": "Arknights: Endfield 1.6 - Posadero de Yuanyuan III (Posada al nivel 4)",
           "url": "https://www.youtube.com/watch?v=bwYMmCpR49Y",
