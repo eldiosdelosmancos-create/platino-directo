@@ -1,14 +1,20 @@
 {
   "channelUrl": "https://www.youtube.com/channel/UCTzl2vYpWCOkWnG0KRNEAzQ",
-  "generatedAt": "2026-10-17T01:00:53.435Z",
+  "generatedAt": "2026-10-17T06:59:14.419Z",
   "games": [
     {
       "id": "PLri3WTYegpZCaoH1q6BjhMgVxFbQFzUo7",
       "title": "Arknights: Endfield",
       "description": "Gameplays y guías de Arknights: Endfield",
-      "thumbnail": "https://i.ytimg.com/vi/nZx0yYY50Y8/maxresdefault.jpg",
-      "updatedAt": "2026-10-16T23:57:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/bwYMmCpR49Y/maxresdefault.jpg",
+      "updatedAt": "2026-10-17T06:13:42Z",
       "videos": [
+        {
+          "title": "Arknights: Endfield 1.6 - Posadero de Yuanyuan III (Posada al nivel 4)",
+          "url": "https://www.youtube.com/watch?v=bwYMmCpR49Y",
+          "thumbnail": "https://i.ytimg.com/vi/bwYMmCpR49Y/maxresdefault.jpg",
+          "publishedAt": "2026-10-17T06:13:42Z"
+        },
         {
           "title": "Ubicación de las 36 Talositas de Pintura de Si | Arknights: Endfield 1.6",
           "url": "https://www.youtube.com/watch?v=nZx0yYY50Y8",
