@@ -1,14 +1,20 @@
 {
   "channelUrl": "https://www.youtube.com/channel/UCTzl2vYpWCOkWnG0KRNEAzQ",
-  "generatedAt": "2026-10-18T01:01:13.987Z",
+  "generatedAt": "2026-10-18T06:58:23.800Z",
   "games": [
     {
       "id": "PLri3WTYegpZCaoH1q6BjhMgVxFbQFzUo7",
       "title": "Arknights: Endfield",
       "description": "Gameplays y guías de Arknights: Endfield",
-      "thumbnail": "https://i.ytimg.com/vi/zDIhkmoAZTc/maxresdefault.jpg",
-      "updatedAt": "2026-10-17T20:19:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/s0HiUrnLtQk/maxresdefault.jpg",
+      "updatedAt": "2026-10-18T04:16:47Z",
       "videos": [
+        {
+          "title": "Ubicación de Informes de inteligencia \"Comportamiento de las apariciones\" | Arknights: Endfield 1.6",
+          "url": "https://www.youtube.com/watch?v=s0HiUrnLtQk",
+          "thumbnail": "https://i.ytimg.com/vi/s0HiUrnLtQk/maxresdefault.jpg",
+          "publishedAt": "2026-10-18T04:16:47Z"
+        },
         {
           "title": "Arknights: Endfield 1.6 - Un día para recordar",
           "url": "https://www.youtube.com/watch?v=zDIhkmoAZTc",
