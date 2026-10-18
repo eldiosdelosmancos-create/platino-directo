@@ -1,14 +1,20 @@
 {
   "channelUrl": "https://www.youtube.com/channel/UCTzl2vYpWCOkWnG0KRNEAzQ",
-  "generatedAt": "2026-10-17T18:48:09.646Z",
+  "generatedAt": "2026-10-18T01:01:13.987Z",
   "games": [
     {
       "id": "PLri3WTYegpZCaoH1q6BjhMgVxFbQFzUo7",
       "title": "Arknights: Endfield",
       "description": "Gameplays y guías de Arknights: Endfield",
-      "thumbnail": "https://i.ytimg.com/vi/ghaS6jHE3s8/maxresdefault.jpg",
-      "updatedAt": "2026-10-17T16:26:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/zDIhkmoAZTc/maxresdefault.jpg",
+      "updatedAt": "2026-10-17T20:19:26Z",
       "videos": [
+        {
+          "title": "Arknights: Endfield 1.6 - Un día para recordar",
+          "url": "https://www.youtube.com/watch?v=zDIhkmoAZTc",
+          "thumbnail": "https://i.ytimg.com/vi/zDIhkmoAZTc/maxresdefault.jpg",
+          "publishedAt": "2026-10-17T20:19:26Z"
+        },
         {
           "title": "Ubicación de los 101 Cofres de Pintura de Si | Arknights: Endfield 1.6",
           "url": "https://www.youtube.com/watch?v=ghaS6jHE3s8",
