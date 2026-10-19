@@ -43,12 +43,90 @@ function render(){
     card.addEventListener("keydown",e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();open();}});
   });
 }
+
 function showGame(id){
-  const g=catalog.find(x=>x.id===id); if(!g)return;
-  const videos=[...(g.videos||[])].sort((a,b)=>new Date(b.publishedAt||0)-new Date(a.publishedAt||0));
-  document.querySelector("#dialog-content").innerHTML=`<h2 class="dialog-heading">${escapeHtml(g.title)}</h2><p class="dialog-desc">${escapeHtml(g.description||"Guías y vídeos de este juego.")}</p><div class="video-list">${videos.length?videos.map(v=>`<a class="video-item" href="${escapeHtml(v.url)}" target="_blank" rel="noopener"><img class="video-thumb" loading="lazy" src="${escapeHtml(v.thumbnail||"")}" alt=""><div><div class="video-title">${escapeHtml(v.title)}</div><div class="video-date">${fmtDate(v.publishedAt)}</div></div><span class="video-go">↗</span></a>`).join(""):'<div class="no-videos">Todavía no hay vídeos añadidos para este juego.</div>'}</div>`;
+  const g = catalog.find(x => x.id === id);
+  if(!g) return;
+
+  const videos = [...(g.videos || [])].sort(
+    (a,b) => new Date(b.publishedAt || 0) - new Date(a.publishedAt || 0)
+  );
+
+  document.querySelector("#dialog-content").innerHTML = `
+    <h2 class="dialog-heading">${escapeHtml(g.title)}</h2>
+    <p class="dialog-desc">${escapeHtml(g.description || "Guías y vídeos de este juego.")}</p>
+
+    <input
+      type="search"
+      id="video-search"
+      class="video-search"
+      placeholder="Buscar vídeos de este juego..."
+      aria-label="Buscar vídeos de este juego"
+      autocomplete="off"
+    >
+
+    <p id="video-search-count" class="video-search-count"></p>
+
+    <div class="video-list" id="game-video-list">
+      ${videos.length ? videos.map(v => `
+        <a class="video-item"
+           href="${escapeHtml(v.url)}"
+           target="_blank"
+           rel="noopener"
+           data-title="${escapeHtml(clean(v.title))}">
+          <img class="video-thumb"
+               loading="lazy"
+               src="${escapeHtml(v.thumbnail || "")}"
+               alt="">
+          <div>
+            <div class="video-title">${escapeHtml(v.title)}</div>
+            <div class="video-date">${fmtDate(v.publishedAt)}</div>
+          </div>
+          <span class="video-go">↗</span>
+        </a>
+      `).join("") : '<div class="no-videos">Todavía no hay vídeos añadidos para este juego.</div>'}
+    </div>
+  `;
+
+  const videoSearch = document.querySelector("#video-search");
+  const videoItems = document.querySelectorAll("#game-video-list .video-item");
+  const count = document.querySelector("#video-search-count");
+
+  function filterVideos(){
+    const query = clean(videoSearch.value.trim());
+    let visible = 0;
+
+    videoItems.forEach(item => {
+      const matches = item.dataset.title.includes(query);
+      item.classList.toggle("hidden", !matches);
+      if(matches) visible++;
+    });
+
+    count.textContent = query
+      ? `${visible} de ${videos.length} vídeos`
+      : `${videos.length} vídeos`;
+
+    let noResults = document.querySelector("#video-no-results");
+
+    if(visible === 0 && videos.length > 0){
+      if(!noResults){
+        noResults = document.createElement("div");
+        noResults.id = "video-no-results";
+        noResults.className = "no-videos";
+        noResults.textContent = "No se han encontrado vídeos con esa búsqueda.";
+        document.querySelector("#game-video-list").appendChild(noResults);
+      }
+    } else if(noResults){
+      noResults.remove();
+    }
+  }
+
+  videoSearch.addEventListener("input", filterVideos);
+  filterVideos();
   dialog.showModal();
+  videoSearch.focus();
 }
+
 searchInput.addEventListener("input",render);
 document.querySelectorAll(".filter").forEach(b=>b.addEventListener("click",()=>{document.querySelectorAll(".filter").forEach(x=>x.classList.remove("active"));b.classList.add("active");currentFilter=b.dataset.filter;render();}));
 document.querySelector("#close-dialog").addEventListener("click",()=>dialog.close());
