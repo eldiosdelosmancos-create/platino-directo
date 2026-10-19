@@ -33,7 +33,30 @@ async function pages(resource, params, listKey) {
 }
 const playlists=await pages("playlists",{part:"snippet,contentDetails",channelId:CHANNEL_ID,maxResults:50},"items");
 const games=[];
+
+
+const filters = JSON.parse(
+  await fs.readFile("data/list-filters.json", "utf8")
+);
+const excludedIds = new Set(filters.excludedPlaylistIds || []);
+const excludedKeywords = (filters.excludedTitleKeywords || [])
+  .map(k => String(k).trim().toLowerCase())
+  .filter(Boolean);
+const includedIds = new Set(filters.includedPlaylistIds || []);
+
+
 for(const pl of playlists) {
+
+  
+  const playlistTitle = String(pl.snippet?.title || "").toLowerCase();
+
+  if (filters.mode === "allow") {
+    if (!includedIds.has(pl.id)) continue;
+  } else {
+    if (excludedIds.has(pl.id)) continue;
+    if (excludedKeywords.some(keyword => playlistTitle.includes(keyword))) continue;
+  }
+
   const items=await pages("playlistItems",{part:"snippet,contentDetails",playlistId:pl.id,maxResults:50},"items");
   const videos=items.map(item=>{
     const s=item.snippet||{}, vid=item.contentDetails?.videoId || s.resourceId?.videoId;
