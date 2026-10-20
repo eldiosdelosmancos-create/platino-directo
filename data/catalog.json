@@ -1,14 +1,20 @@
 {
   "channelUrl": "https://www.youtube.com/channel/UCTzl2vYpWCOkWnG0KRNEAzQ",
-  "generatedAt": "2026-10-20T01:03:53.629Z",
+  "generatedAt": "2026-10-20T07:03:58.887Z",
   "games": [
     {
       "id": "PLri3WTYegpZCNExL40e5LVHVDDRJn9ieH",
       "title": "Crimson Desert",
       "description": "Gameplay y guía completos para el platino de Crimson Desert",
-      "thumbnail": "https://i.ytimg.com/vi/y68N0eR1wdg/maxresdefault.jpg",
-      "updatedAt": "2026-10-19T18:08:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/coS5-arSCbU/maxresdefault.jpg",
+      "updatedAt": "2026-10-20T05:55:00Z",
       "videos": [
+        {
+          "title": "¿Cómo completar las 50 FASES de JUEGO de ORBE? | Crimson Desert",
+          "url": "https://www.youtube.com/watch?v=coS5-arSCbU",
+          "thumbnail": "https://i.ytimg.com/vi/coS5-arSCbU/maxresdefault.jpg",
+          "publishedAt": "2026-10-20T05:55:00Z"
+        },
         {
           "title": "Las 8 Historias desde los rincones del Desierto Carmesí | Crimson Desert",
           "url": "https://www.youtube.com/watch?v=y68N0eR1wdg",
