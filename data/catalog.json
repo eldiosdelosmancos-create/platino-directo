@@ -1,14 +1,20 @@
 {
   "channelUrl": "https://www.youtube.com/channel/UCTzl2vYpWCOkWnG0KRNEAzQ",
-  "generatedAt": "2026-10-24T12:58:13.692Z",
+  "generatedAt": "2026-10-24T18:51:11.289Z",
   "games": [
     {
       "id": "PLri3WTYegpZCNExL40e5LVHVDDRJn9ieH",
       "title": "Crimson Desert",
       "description": "Gameplay y guía completos para el platino de Crimson Desert",
-      "thumbnail": "https://i.ytimg.com/vi/5Sz_kX4pRU8/maxresdefault.jpg",
-      "updatedAt": "2026-10-24T11:33:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/a7IQH-kSNGI/maxresdefault.jpg",
+      "updatedAt": "2026-10-24T17:08:23Z",
       "videos": [
+        {
+          "title": "Ubicación de los 35 Recuerdos efímeros del Desierto Carmesí | Crimson Desert",
+          "url": "https://www.youtube.com/watch?v=a7IQH-kSNGI",
+          "thumbnail": "https://i.ytimg.com/vi/a7IQH-kSNGI/maxresdefault.jpg",
+          "publishedAt": "2026-10-24T17:08:23Z"
+        },
         {
           "title": "Las 8 Historias de los rincones de Pailune | Crimson Desert",
           "url": "https://www.youtube.com/watch?v=5Sz_kX4pRU8",
