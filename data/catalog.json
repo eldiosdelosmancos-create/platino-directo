@@ -1,14 +1,20 @@
 {
   "channelUrl": "https://www.youtube.com/channel/UCTzl2vYpWCOkWnG0KRNEAzQ",
-  "generatedAt": "2026-10-25T00:59:10.040Z",
+  "generatedAt": "2026-10-25T07:02:31.118Z",
   "games": [
     {
       "id": "PLri3WTYegpZCNExL40e5LVHVDDRJn9ieH",
       "title": "Crimson Desert",
       "description": "Gameplay y guía completos para el platino de Crimson Desert",
-      "thumbnail": "https://i.ytimg.com/vi/a7IQH-kSNGI/maxresdefault.jpg",
-      "updatedAt": "2026-10-24T17:08:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/bsYRNAnxWm4/maxresdefault.jpg",
+      "updatedAt": "2026-10-25T05:04:37Z",
       "videos": [
+        {
+          "title": "Crimson Desert - Encargos de Delesyia - Objetos de valor sacudidos (Misión de facción)",
+          "url": "https://www.youtube.com/watch?v=bsYRNAnxWm4",
+          "thumbnail": "https://i.ytimg.com/vi/bsYRNAnxWm4/maxresdefault.jpg",
+          "publishedAt": "2026-10-25T05:04:37Z"
+        },
         {
           "title": "Ubicación de los 35 Recuerdos efímeros del Desierto Carmesí | Crimson Desert",
           "url": "https://www.youtube.com/watch?v=a7IQH-kSNGI",
