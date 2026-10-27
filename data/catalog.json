@@ -1,413 +1,20 @@
 {
   "channelUrl": "https://www.youtube.com/channel/UCTzl2vYpWCOkWnG0KRNEAzQ",
-  "generatedAt": "2026-10-26T14:59:24.048Z",
+  "generatedAt": "2026-10-27T01:08:04.581Z",
   "games": [
-    {
-      "id": "PLri3WTYegpZAT5IRX4n74BIXSW14GuSTc",
-      "title": "Platinos RÁPIDOS",
-      "description": "Aquí os dejo vídeos con Gameplays completos al 100%, consiguiendo todos los trofeos o logros del juego y, por lo tanto, el trofeo de Platino o los 1000G. ¡TODO EN UN VÍDEO!",
-      "thumbnail": "https://i.ytimg.com/vi/OS8VJADtkJs/maxresdefault.jpg",
-      "updatedAt": "2026-10-25T08:28:38Z",
-      "videos": [
-        {
-          "title": "NUEVO PLATINO GRATIS y  RÁPIDO (2 horas) - Guía de Dominoes Together",
-          "url": "https://www.youtube.com/watch?v=OS8VJADtkJs",
-          "thumbnail": "https://i.ytimg.com/vi/OS8VJADtkJs/maxresdefault.jpg",
-          "publishedAt": "2026-10-25T08:28:38Z"
-        },
-        {
-          "title": "Poppy Playtime 2 - SPEEDRUN con TODOS los trofeos en menos de 45 MINUTOS ¡PLATINO en 1 partida!",
-          "url": "https://www.youtube.com/watch?v=8i0RKWySe60",
-          "thumbnail": "https://i.ytimg.com/vi/8i0RKWySe60/maxresdefault.jpg",
-          "publishedAt": "2026-10-21T18:31:06Z"
-        },
-        {
-          "title": "The Midnight Walk - Gameplay 100% con TODOS los TROFEOS y COLECCIONABLES (Platino en 2 - 3 HORAS)",
-          "url": "https://www.youtube.com/watch?v=CNHMEa1RjmI",
-          "thumbnail": "https://i.ytimg.com/vi/CNHMEa1RjmI/maxresdefault.jpg",
-          "publishedAt": "2026-10-20T16:49:43Z"
-        },
-        {
-          "title": "NUEVO PLATINO GRATIS y  RÁPIDO (50 minutos) - Guía de Ecchi Memories",
-          "url": "https://www.youtube.com/watch?v=uIabqXTR0Ec",
-          "thumbnail": "https://i.ytimg.com/vi/uIabqXTR0Ec/maxresdefault.jpg",
-          "publishedAt": "2026-10-19T05:51:29Z"
-        },
-        {
-          "title": "🏆 F1 25 - GUÍA COMPLETA DEL PLATINO 🏁 100% Trofeos y Platino Fácil",
-          "url": "https://www.youtube.com/watch?v=61r_3vK4MOk",
-          "thumbnail": "https://i.ytimg.com/vi/61r_3vK4MOk/maxresdefault.jpg",
-          "publishedAt": "2026-10-11T18:13:45Z"
-        },
-        {
-          "title": "PLATINO GRATIS y ULTRARRÁPIDO (20 minutos) - Guía de Flockout",
-          "url": "https://www.youtube.com/watch?v=Ykv52Zby5YI",
-          "thumbnail": "https://i.ytimg.com/vi/Ykv52Zby5YI/maxresdefault.jpg",
-          "publishedAt": "2026-10-03T01:38:33Z"
-        },
-        {
-          "title": "Lake - Gameplay 100% con TODOS los TROFEOS (Platino en 3 - 4,5 HORAS)",
-          "url": "https://www.youtube.com/watch?v=9ZZzbvDeoEc",
-          "thumbnail": "https://i.ytimg.com/vi/9ZZzbvDeoEc/maxresdefault.jpg",
-          "publishedAt": "2026-10-01T15:40:02Z"
-        },
-        {
-          "title": "Nuevo PLATINO GRATIS y RÁPIDO (2 horas) - Guía de The Light in the Darkness Director's Cut",
-          "url": "https://www.youtube.com/watch?v=7lUQXyk_xSs",
-          "thumbnail": "https://i.ytimg.com/vi/7lUQXyk_xSs/maxresdefault.jpg",
-          "publishedAt": "2026-09-30T16:42:43Z"
-        },
-        {
-          "title": "Nuevo PLATINO GRATIS  - Guía de Train Sim World 7 Free Edition | PLATINO en 7 horas (5,5h SIN JUGAR)",
-          "url": "https://www.youtube.com/watch?v=KjiS9mOdIRE",
-          "thumbnail": "https://i.ytimg.com/vi/KjiS9mOdIRE/maxresdefault.jpg",
-          "publishedAt": "2026-09-17T22:19:47Z"
-        },
-        {
-          "title": "El juego clásico Star Wars: Rebel Assault II recibe Trofeos | Guía de su Platino en 50 minutos",
-          "url": "https://www.youtube.com/watch?v=_x-MzZkneqc",
-          "thumbnail": "https://i.ytimg.com/vi/_x-MzZkneqc/maxresdefault.jpg",
-          "publishedAt": "2026-08-31T16:46:28Z"
-        },
-        {
-          "title": "PLATINO GRATIS y RÁPIDO (1 hora) - Guía de Bunny Raiders",
-          "url": "https://www.youtube.com/watch?v=yW9-PxP9-mE",
-          "thumbnail": "https://i.ytimg.com/vi/yW9-PxP9-mE/maxresdefault.jpg",
-          "publishedAt": "2026-08-23T16:59:31Z"
-        },
-        {
-          "title": "Completando TODOS los NIVELES de Ping Redux (juego gratis) | Platino en 2 horas",
-          "url": "https://www.youtube.com/watch?v=p1Wa4NBDIY8",
-          "thumbnail": "https://i.ytimg.com/vi/p1Wa4NBDIY8/maxresdefault.jpg",
-          "publishedAt": "2026-08-22T17:02:24Z"
-        },
-        {
-          "title": "Disney Atlantis: El Imperio Perdido - Gameplay 100% con TODOS los TROFEOS | Platino en 2,5 - 3 HORAS",
-          "url": "https://www.youtube.com/watch?v=LquqQ7HVsnM",
-          "thumbnail": "https://i.ytimg.com/vi/LquqQ7HVsnM/maxresdefault.jpg",
-          "publishedAt": "2026-08-21T12:22:24Z"
-        },
-        {
-          "title": "PLATINO GRATIS y RÁPIDO (20 minutos) - Guía de Piece Out Avatarland",
-          "url": "https://www.youtube.com/watch?v=MMNcHO40oYI",
-          "thumbnail": "https://i.ytimg.com/vi/MMNcHO40oYI/maxresdefault.jpg",
-          "publishedAt": "2026-08-18T07:13:05Z"
-        },
-        {
-          "title": "PLATINO GRATIS y RÁPIDO (30 minutos) - Guía de Real Cake Maker",
-          "url": "https://www.youtube.com/watch?v=m3EkwTlNxiQ",
-          "thumbnail": "https://i.ytimg.com/vi/m3EkwTlNxiQ/maxresdefault.jpg",
-          "publishedAt": "2026-08-17T22:02:27Z"
-        },
-        {
-          "title": "PLATINO GRATIS y ULTRARRÁPIDO (9 minutos) - Guía de Puzzle Drop Carnival",
-          "url": "https://www.youtube.com/watch?v=CVd4BBnsvds",
-          "thumbnail": "https://i.ytimg.com/vi/CVd4BBnsvds/maxresdefault.jpg",
-          "publishedAt": "2026-08-17T06:21:06Z"
-        },
-        {
-          "title": "PLATINO GRATIS y RÁPIDO (1,5 horas) - Guía de The Light in the Darkness",
-          "url": "https://www.youtube.com/watch?v=HRoPjdLZO0g",
-          "thumbnail": "https://i.ytimg.com/vi/HRoPjdLZO0g/maxresdefault.jpg",
-          "publishedAt": "2026-08-17T05:16:10Z"
-        },
-        {
-          "title": "Signalis - Gameplay 100% con TODOS los TROFEOS (Platino en 2-3 HORAS)",
-          "url": "https://www.youtube.com/watch?v=fdU5r883qgk",
-          "thumbnail": "https://i.ytimg.com/vi/fdU5r883qgk/maxresdefault.jpg",
-          "publishedAt": "2026-08-04T23:03:08Z"
-        },
-        {
-          "title": "Nuevo PLATINO GRATIS y RÁPIDO (4 horas) - Guía de Diamond Painting ASMR",
-          "url": "https://www.youtube.com/watch?v=kzNXR_MghGk",
-          "thumbnail": "https://i.ytimg.com/vi/kzNXR_MghGk/maxresdefault.jpg",
-          "publishedAt": "2026-07-26T18:12:34Z"
-        },
-        {
-          "title": "Mighty Morphin Power Rangers: Rita's Rewind - Gameplay 100% con TODOS los TROFEOS (Platino en 4 h.)",
-          "url": "https://www.youtube.com/watch?v=Lr-4yHRaarw",
-          "thumbnail": "https://i.ytimg.com/vi/Lr-4yHRaarw/maxresdefault.jpg",
-          "publishedAt": "2026-07-24T16:23:48Z"
-        },
-        {
-          "title": "Nuevo PLATINO GRATIS y RÁPIDO (2 horas) - Guía de Buffet Boss",
-          "url": "https://www.youtube.com/watch?v=psgxR4wwtnM",
-          "thumbnail": "https://i.ytimg.com/vi/psgxR4wwtnM/maxresdefault.jpg",
-          "publishedAt": "2026-07-23T03:16:38Z"
-        },
-        {
-          "title": "Nuevo PLATINO GRATIS y RÁPIDO (45 minutos) - Guía de The Legend Of Fireball",
-          "url": "https://www.youtube.com/watch?v=CSGh9hAKZ_E",
-          "thumbnail": "https://i.ytimg.com/vi/CSGh9hAKZ_E/maxresdefault.jpg",
-          "publishedAt": "2026-07-05T23:12:06Z"
-        },
-        {
-          "title": "Nuevo PLATINO GRATIS y ULTRARRÁPIDO (20 minutos) - Guía de Splash of Color",
-          "url": "https://www.youtube.com/watch?v=h-A1ScKFez4",
-          "thumbnail": "https://i.ytimg.com/vi/h-A1ScKFez4/maxresdefault.jpg",
-          "publishedAt": "2026-07-04T17:05:00Z"
-        },
-        {
-          "title": "PLATINO GRATIS y ULTRARRÁPIDO (20 minutos) - Guía de Ecchi Crush",
-          "url": "https://www.youtube.com/watch?v=q2O_1rJmN7I",
-          "thumbnail": "https://i.ytimg.com/vi/q2O_1rJmN7I/maxresdefault.jpg",
-          "publishedAt": "2026-06-08T18:17:33Z"
-        },
-        {
-          "title": "PLATINO GRATIS y ULTRARRÁPIDO (15 minutos) - Guía de Ecchi Secrets",
-          "url": "https://www.youtube.com/watch?v=QbvlVE5EtBM",
-          "thumbnail": "https://i.ytimg.com/vi/QbvlVE5EtBM/maxresdefault.jpg",
-          "publishedAt": "2026-06-04T15:29:38Z"
-        },
-        {
-          "title": "Consigue el platino REGALADO de este juego GRATIS en menos de 5 MINUTOS | Chess Mate",
-          "url": "https://www.youtube.com/watch?v=etY9utpDaEk",
-          "thumbnail": "https://i.ytimg.com/vi/etY9utpDaEk/maxresdefault.jpg",
-          "publishedAt": "2026-06-03T17:33:27Z"
-        },
-        {
-          "title": "Undertale - Gameplay 100% con TODOS los TROFEOS (Platino en 2 HORAS)",
-          "url": "https://www.youtube.com/watch?v=maKozLs7aCM",
-          "thumbnail": "https://i.ytimg.com/vi/maKozLs7aCM/maxresdefault.jpg",
-          "publishedAt": "2026-03-07T19:08:57Z"
-        },
-        {
-          "title": "PLATINO GRATIS y ULTRARRÁPIDO (15 minutos) - Guía de Halloween Puzzle",
-          "url": "https://www.youtube.com/watch?v=fGcySccPARA",
-          "thumbnail": "https://i.ytimg.com/vi/fGcySccPARA/maxresdefault.jpg",
-          "publishedAt": "2026-02-23T10:44:04Z"
-        },
-        {
-          "title": "Neva - Gameplay 100% con TODOS los TROFEOS (Platino en 2,5 HORAS)",
-          "url": "https://www.youtube.com/watch?v=Hx3YOiSXoRg",
-          "thumbnail": "https://i.ytimg.com/vi/Hx3YOiSXoRg/maxresdefault.jpg",
-          "publishedAt": "2026-02-18T23:12:05Z"
-        },
-        {
-          "title": "Venba - Gameplay 100% con TODOS los TROFEOS (¡Platino en 1 HORA!)",
-          "url": "https://www.youtube.com/watch?v=3FGwgE85Pns",
-          "thumbnail": "https://i.ytimg.com/vi/3FGwgE85Pns/maxresdefault.jpg",
-          "publishedAt": "2026-02-17T17:15:26Z"
-        },
-        {
-          "title": "PLATINO GRATIS y ULTRARRÁPIDO (15 minutos) - Guía de Puzzle Journey",
-          "url": "https://www.youtube.com/watch?v=BS97DWdrICs",
-          "thumbnail": "https://i.ytimg.com/vi/BS97DWdrICs/maxresdefault.jpg",
-          "publishedAt": "2026-02-07T04:19:31Z"
-        },
-        {
-          "title": "Nuevo PLATINO GRATIS y ULTRARRÁPIDO (15 minutos) - Guía de Avatar Island",
-          "url": "https://www.youtube.com/watch?v=K83tDxrHHS4",
-          "thumbnail": "https://i.ytimg.com/vi/K83tDxrHHS4/maxresdefault.jpg",
-          "publishedAt": "2026-01-31T14:22:33Z"
-        },
-        {
-          "title": "A Little to the Left - Gameplay 100% con SOLUCIÓN a TODOS los puzles (Platino en 6 HORAS)",
-          "url": "https://www.youtube.com/watch?v=DEy_UJENujk",
-          "thumbnail": "https://i.ytimg.com/vi/DEy_UJENujk/maxresdefault.jpg",
-          "publishedAt": "2026-01-21T19:06:06Z"
-        },
-        {
-          "title": "The Exit 8 - Guía del 100% de Trofeos (TODAS las ANOMALÍAS)",
-          "url": "https://www.youtube.com/watch?v=FAQCu04Qk-c",
-          "thumbnail": "https://i.ytimg.com/vi/FAQCu04Qk-c/maxresdefault.jpg",
-          "publishedAt": "2026-01-20T13:52:28Z"
-        },
-        {
-          "title": "Nuevo PLATINO GRATIS y ULTRARRÁPIDO (25 minutos) - Guía de Catch me if you can",
-          "url": "https://www.youtube.com/watch?v=mICnuF4Yhhw",
-          "thumbnail": "https://i.ytimg.com/vi/mICnuF4Yhhw/maxresdefault.jpg",
-          "publishedAt": "2026-01-17T00:06:22Z"
-        },
-        {
-          "title": "Otro PLATINO GRATIS y ULTRARRÁPIDO (15 minutos) - Guía de Coloring Book",
-          "url": "https://www.youtube.com/watch?v=oMY-si6p4WU",
-          "thumbnail": "https://i.ytimg.com/vi/oMY-si6p4WU/maxresdefault.jpg",
-          "publishedAt": "2026-01-07T16:43:02Z"
-        },
-        {
-          "title": "Nuevo PLATINO GRATIS y RÁPIDO (45 minutos) - Guía de Puzzle Galaxy",
-          "url": "https://www.youtube.com/watch?v=YMeTq59M7LQ",
-          "thumbnail": "https://i.ytimg.com/vi/YMeTq59M7LQ/maxresdefault.jpg",
-          "publishedAt": "2026-01-04T12:38:28Z"
-        },
-        {
-          "title": "Call of the Sea - Gameplay 100% con TODOS los SECRETOS y TROFEOS (Platino en 2 HORAS)",
-          "url": "https://www.youtube.com/watch?v=ZMT1uiAf5vE",
-          "thumbnail": "https://i.ytimg.com/vi/ZMT1uiAf5vE/maxresdefault.jpg",
-          "publishedAt": "2026-01-03T18:38:37Z"
-        },
-        {
-          "title": "Crow Country - Gameplay 100% Rango S+ con TODOS los SECRETOS y TROFEOS (Platino en 2 HORAS)",
-          "url": "https://www.youtube.com/watch?v=qZoLoKwTk34",
-          "thumbnail": "https://i.ytimg.com/vi/qZoLoKwTk34/maxresdefault.jpg",
-          "publishedAt": "2026-01-02T21:02:53Z"
-        },
-        {
-          "title": "Deliver Us The Moon - Gameplay 100% con TODOS los COLECCIONABLES y TROFEOS (Platino en 3 HORAS)",
-          "url": "https://www.youtube.com/watch?v=bn3TPqsFUec",
-          "thumbnail": "https://i.ytimg.com/vi/bn3TPqsFUec/maxresdefault.jpg",
-          "publishedAt": "2025-12-29T11:26:16Z"
-        },
-        {
-          "title": "CAT QUEST 3 - Gameplay 100% OPTIMIZADO con TODOS los TROFEOS (¡Platino en 5 HORAS!)",
-          "url": "https://www.youtube.com/watch?v=phJmtCF2EK8",
-          "thumbnail": "https://i.ytimg.com/vi/phJmtCF2EK8/maxresdefault.jpg",
-          "publishedAt": "2025-12-26T08:40:39Z"
-        },
-        {
-          "title": "The Gardens Between - Gameplay COMPLETO con TODOS los TROFEOS (Platino en 1 HORA)",
-          "url": "https://www.youtube.com/watch?v=xp9xciVinxo",
-          "thumbnail": "https://i.ytimg.com/vi/xp9xciVinxo/maxresdefault.jpg",
-          "publishedAt": "2025-11-28T21:48:41Z"
-        },
-        {
-          "title": "Mystic Pillars Remastered - Solución a TODOS los puzzles - Niveles 1 al 100 (Platino en 1,5 HORAS)",
-          "url": "https://www.youtube.com/watch?v=RPvwVnpx0q4",
-          "thumbnail": "https://i.ytimg.com/vi/RPvwVnpx0q4/maxresdefault.jpg",
-          "publishedAt": "2025-11-23T17:23:41Z"
-        },
-        {
-          "title": "Thank Goodness You're Here - Gameplay 100% con TODOS los TROFEOS (Platino en 1,5 HORAS)",
-          "url": "https://www.youtube.com/watch?v=8IUa9gVPyA0",
-          "thumbnail": "https://i.ytimg.com/vi/8IUa9gVPyA0/maxresdefault.jpg",
-          "publishedAt": "2025-11-20T19:42:23Z"
-        },
-        {
-          "title": "Still Wakes The Deep - Gameplay 100% con TODOS los TROFEOS (Platino en 3 HORAS)",
-          "url": "https://www.youtube.com/watch?v=oDuqSdkBR64",
-          "thumbnail": "https://i.ytimg.com/vi/oDuqSdkBR64/maxresdefault.jpg",
-          "publishedAt": "2025-11-19T20:13:40Z"
-        },
-        {
-          "title": "Totally Accurate Battle Simulator (TABS) - Gameplay 100% con TODOS los TROFEOS (Platino en 6 H)",
-          "url": "https://www.youtube.com/watch?v=TuN-pW3wSU8",
-          "thumbnail": "https://i.ytimg.com/vi/TuN-pW3wSU8/maxresdefault.jpg",
-          "publishedAt": "2025-11-11T19:46:10Z"
-        },
-        {
-          "title": "Cocoon - Gameplay 100% con TODOS los TROFEOS (Platino en 2 HORAS)",
-          "url": "https://www.youtube.com/watch?v=XwCdeS4ct50",
-          "thumbnail": "https://i.ytimg.com/vi/XwCdeS4ct50/maxresdefault.jpg",
-          "publishedAt": "2025-10-12T01:16:04Z"
-        },
-        {
-          "title": "Viewfinder - Gameplay 100% con TODOS los COLECCIONABLES y TROFEOS (Platino en 2 HORAS)",
-          "url": "https://www.youtube.com/watch?v=TjM0wPI69_c",
-          "thumbnail": "https://i.ytimg.com/vi/TjM0wPI69_c/maxresdefault.jpg",
-          "publishedAt": "2025-09-02T20:36:37Z"
-        },
-        {
-          "title": "Sword of the Sea - Gameplay 100% con TODOS los COLECCIONABLES y TROFEOS (Platino en 6 HORAS)",
-          "url": "https://www.youtube.com/watch?v=XVsE9uHgw0I",
-          "thumbnail": "https://i.ytimg.com/vi/XVsE9uHgw0I/maxresdefault.jpg",
-          "publishedAt": "2025-08-31T05:21:35Z"
-        },
-        {
-          "title": "INDIKA - Gameplay 100% con TODOS los TROFEOS (Platino en 3 HORAS)",
-          "url": "https://www.youtube.com/watch?v=hfjnPj1PQ8o",
-          "thumbnail": "https://i.ytimg.com/vi/hfjnPj1PQ8o/maxresdefault.jpg",
-          "publishedAt": "2025-08-19T20:39:30Z"
-        },
-        {
-          "title": "BLUEY: el videojuego - Gameplay 100% con TODOS los COLECCIONABLES y TROFEOS (Platino en 2 HORAS)",
-          "url": "https://www.youtube.com/watch?v=w0zeqgTGFT0",
-          "thumbnail": "https://i.ytimg.com/vi/w0zeqgTGFT0/maxresdefault.jpg",
-          "publishedAt": "2025-07-15T18:07:31Z"
-        },
-        {
-          "title": "Coffee Talk Episode 2 - Gameplay 100% con TODOS los trofeos (Platino en 3 o 9 HORAS)",
-          "url": "https://www.youtube.com/watch?v=lY3YBKDVtM0",
-          "thumbnail": "https://i.ytimg.com/vi/lY3YBKDVtM0/maxresdefault.jpg",
-          "publishedAt": "2025-04-10T03:09:17Z"
-        },
-        {
-          "title": "JUSANT - Gameplay 100% con TODOS los 105 COLECCIONABLES y TROFEOS (Platino en 4 HORAS)",
-          "url": "https://www.youtube.com/watch?v=UZBoGO0qz4o",
-          "thumbnail": "https://i.ytimg.com/vi/UZBoGO0qz4o/maxresdefault.jpg",
-          "publishedAt": "2025-07-07T11:56:32Z"
-        },
-        {
-          "title": "Pinball Heroes - Obtén uno de los PLATINOS más FÁCILES y RÁPIDOS (menos de 1 HORA)",
-          "url": "https://www.youtube.com/watch?v=iSUo7iG6yzU",
-          "thumbnail": "https://i.ytimg.com/vi/iSUo7iG6yzU/maxresdefault.jpg",
-          "publishedAt": "2025-06-16T14:25:40Z"
-        },
-        {
-          "title": "The Pedestrian - Obtén el 100% de Trofeos en 5 MINUTOS (No lo hagas si quieres disfrutar del juego)",
-          "url": "https://www.youtube.com/watch?v=gMUDovnzi_Q",
-          "thumbnail": "https://i.ytimg.com/vi/gMUDovnzi_Q/maxresdefault.jpg",
-          "publishedAt": "2025-06-15T22:11:29Z"
-        },
-        {
-          "title": "Coffee Talk - Gameplay 100% con TODOS los trofeos (Platino en 2 o 7 HORAS)",
-          "url": "https://www.youtube.com/watch?v=kacVMJWrv0M",
-          "thumbnail": "https://i.ytimg.com/vi/kacVMJWrv0M/maxresdefault.jpg",
-          "publishedAt": "2025-03-19T02:38:40Z"
-        },
-        {
-          "title": "ANNO: Mutationem - Gameplay 100% con TODOS los COLECCIONABLES y TROFEOS (Platino FÁCIL en 10 h.)",
-          "url": "https://www.youtube.com/watch?v=wq5l5fXEdK0",
-          "thumbnail": "https://i.ytimg.com/vi/wq5l5fXEdK0/maxresdefault.jpg",
-          "publishedAt": "2025-03-19T02:36:12Z"
-        },
-        {
-          "title": "CAT QUEST 2 - Gameplay 100% con TODOS los COLECCIONABLES y TROFEOS (¡Platino en 8 HORAS!)",
-          "url": "https://www.youtube.com/watch?v=fmGxWpkbZWg",
-          "thumbnail": "https://i.ytimg.com/vi/fmGxWpkbZWg/maxresdefault.jpg",
-          "publishedAt": "2025-03-19T02:37:24Z"
-        },
-        {
-          "title": "CAT QUEST - Gameplay 100% con TODOS los COLECCIONABLES y TROFEOS (¡Platino en 6,5 HORAS!)",
-          "url": "https://www.youtube.com/watch?v=ceHacHvuXa8",
-          "thumbnail": "https://i.ytimg.com/vi/ceHacHvuXa8/maxresdefault.jpg",
-          "publishedAt": "2025-03-19T02:37:35Z"
-        },
-        {
-          "title": "GRIS - Gameplay 100% con TODOS los COLECCIONABLES y TROFEOS (¡Platino en 2,5 HORAS!)",
-          "url": "https://www.youtube.com/watch?v=Z9v_6PzFRyc",
-          "thumbnail": "https://i.ytimg.com/vi/Z9v_6PzFRyc/maxresdefault.jpg",
-          "publishedAt": "2025-03-19T02:37:44Z"
-        },
-        {
-          "title": "ENDER LILIES - Gameplay 100% con TODOS los 338 COLECCIONABLES y TROFEOS (Platino FÁCIL)",
-          "url": "https://www.youtube.com/watch?v=VuOp4fFci4c",
-          "thumbnail": "https://i.ytimg.com/vi/VuOp4fFci4c/maxresdefault.jpg",
-          "publishedAt": "2025-03-19T02:37:56Z"
-        },
-        {
-          "title": "ASTRO's PLAYROOM - Gameplay 100% con TODOS los COLECCIONABLES y TROFEOS (¡Platino en 2,5 HORAS!)",
-          "url": "https://www.youtube.com/watch?v=jPZhyjjhg94",
-          "thumbnail": "https://i.ytimg.com/vi/jPZhyjjhg94/maxresdefault.jpg",
-          "publishedAt": "2025-03-19T02:38:05Z"
-        },
-        {
-          "title": "Hellblade: Senua’s Sacrifice -FULL Gameplay- Platino/1000G en 5 HORAS (TODAS las piedras de relato)",
-          "url": "https://www.youtube.com/watch?v=6PxoUkDFLsM",
-          "thumbnail": "https://i.ytimg.com/vi/6PxoUkDFLsM/maxresdefault.jpg",
-          "publishedAt": "2025-03-19T02:38:13Z"
-        },
-        {
-          "title": "Scorn - Gameplay y Guía completa de Logros (Scorn walkthrough Xbox Series X)",
-          "url": "https://www.youtube.com/watch?v=D-dLEsXm7h0",
-          "thumbnail": "https://i.ytimg.com/vi/D-dLEsXm7h0/maxresdefault.jpg",
-          "publishedAt": "2025-03-19T02:38:22Z"
-        },
-        {
-          "title": "Subnautica - ¡Consigue su Platino en 40 MINUTOS! (No lo hagas si quieres disfrutar del juego)",
-          "url": "https://www.youtube.com/watch?v=Dvu9C8r9rIU",
-          "thumbnail": "https://i.ytimg.com/vi/Dvu9C8r9rIU/maxresdefault.jpg",
-          "publishedAt": "2025-03-19T02:38:30Z"
-        }
-      ]
-    },
     {
       "id": "PLri3WTYegpZCNExL40e5LVHVDDRJn9ieH",
       "title": "Crimson Desert",
       "description": "Gameplay y guía completos para el platino de Crimson Desert",
-      "thumbnail": "https://i.ytimg.com/vi/bsYRNAnxWm4/maxresdefault.jpg",
-      "updatedAt": "2026-10-25T05:04:37Z",
+      "thumbnail": "https://i.ytimg.com/vi/H7VtZo0gQyo/maxresdefault.jpg",
+      "updatedAt": "2026-10-26T18:15:36Z",
       "videos": [
+        {
+          "title": "Ubicación de los 53 Recuerdos efímeros de Demeniss | Crimson Desert",
+          "url": "https://www.youtube.com/watch?v=H7VtZo0gQyo",
+          "thumbnail": "https://i.ytimg.com/vi/H7VtZo0gQyo/maxresdefault.jpg",
+          "publishedAt": "2026-10-26T18:15:36Z"
+        },
         {
           "title": "Crimson Desert - Encargos de Delesyia - Objetos de valor sacudidos (Misión de facción)",
           "url": "https://www.youtube.com/watch?v=bsYRNAnxWm4",
@@ -3977,6 +3584,405 @@
           "url": "https://www.youtube.com/watch?v=aAGbDfLEeGI",
           "thumbnail": "https://i.ytimg.com/vi/aAGbDfLEeGI/maxresdefault.jpg",
           "publishedAt": "2026-03-19T23:12:05Z"
+        }
+      ]
+    },
+    {
+      "id": "PLri3WTYegpZAT5IRX4n74BIXSW14GuSTc",
+      "title": "Platinos RÁPIDOS",
+      "description": "Aquí os dejo vídeos con Gameplays completos al 100%, consiguiendo todos los trofeos o logros del juego y, por lo tanto, el trofeo de Platino o los 1000G. ¡TODO EN UN VÍDEO!",
+      "thumbnail": "https://i.ytimg.com/vi/OS8VJADtkJs/maxresdefault.jpg",
+      "updatedAt": "2026-10-25T08:28:38Z",
+      "videos": [
+        {
+          "title": "NUEVO PLATINO GRATIS y  RÁPIDO (2 horas) - Guía de Dominoes Together",
+          "url": "https://www.youtube.com/watch?v=OS8VJADtkJs",
+          "thumbnail": "https://i.ytimg.com/vi/OS8VJADtkJs/maxresdefault.jpg",
+          "publishedAt": "2026-10-25T08:28:38Z"
+        },
+        {
+          "title": "Poppy Playtime 2 - SPEEDRUN con TODOS los trofeos en menos de 45 MINUTOS ¡PLATINO en 1 partida!",
+          "url": "https://www.youtube.com/watch?v=8i0RKWySe60",
+          "thumbnail": "https://i.ytimg.com/vi/8i0RKWySe60/maxresdefault.jpg",
+          "publishedAt": "2026-10-21T18:31:06Z"
+        },
+        {
+          "title": "The Midnight Walk - Gameplay 100% con TODOS los TROFEOS y COLECCIONABLES (Platino en 2 - 3 HORAS)",
+          "url": "https://www.youtube.com/watch?v=CNHMEa1RjmI",
+          "thumbnail": "https://i.ytimg.com/vi/CNHMEa1RjmI/maxresdefault.jpg",
+          "publishedAt": "2026-10-20T16:49:43Z"
+        },
+        {
+          "title": "NUEVO PLATINO GRATIS y  RÁPIDO (50 minutos) - Guía de Ecchi Memories",
+          "url": "https://www.youtube.com/watch?v=uIabqXTR0Ec",
+          "thumbnail": "https://i.ytimg.com/vi/uIabqXTR0Ec/maxresdefault.jpg",
+          "publishedAt": "2026-10-19T05:51:29Z"
+        },
+        {
+          "title": "🏆 F1 25 - GUÍA COMPLETA DEL PLATINO 🏁 100% Trofeos y Platino Fácil",
+          "url": "https://www.youtube.com/watch?v=61r_3vK4MOk",
+          "thumbnail": "https://i.ytimg.com/vi/61r_3vK4MOk/maxresdefault.jpg",
+          "publishedAt": "2026-10-11T18:13:45Z"
+        },
+        {
+          "title": "PLATINO GRATIS y ULTRARRÁPIDO (20 minutos) - Guía de Flockout",
+          "url": "https://www.youtube.com/watch?v=Ykv52Zby5YI",
+          "thumbnail": "https://i.ytimg.com/vi/Ykv52Zby5YI/maxresdefault.jpg",
+          "publishedAt": "2026-10-03T01:38:33Z"
+        },
+        {
+          "title": "Lake - Gameplay 100% con TODOS los TROFEOS (Platino en 3 - 4,5 HORAS)",
+          "url": "https://www.youtube.com/watch?v=9ZZzbvDeoEc",
+          "thumbnail": "https://i.ytimg.com/vi/9ZZzbvDeoEc/maxresdefault.jpg",
+          "publishedAt": "2026-10-01T15:40:02Z"
+        },
+        {
+          "title": "Nuevo PLATINO GRATIS y RÁPIDO (2 horas) - Guía de The Light in the Darkness Director's Cut",
+          "url": "https://www.youtube.com/watch?v=7lUQXyk_xSs",
+          "thumbnail": "https://i.ytimg.com/vi/7lUQXyk_xSs/maxresdefault.jpg",
+          "publishedAt": "2026-09-30T16:42:43Z"
+        },
+        {
+          "title": "Nuevo PLATINO GRATIS  - Guía de Train Sim World 7 Free Edition | PLATINO en 7 horas (5,5h SIN JUGAR)",
+          "url": "https://www.youtube.com/watch?v=KjiS9mOdIRE",
+          "thumbnail": "https://i.ytimg.com/vi/KjiS9mOdIRE/maxresdefault.jpg",
+          "publishedAt": "2026-09-17T22:19:47Z"
+        },
+        {
+          "title": "El juego clásico Star Wars: Rebel Assault II recibe Trofeos | Guía de su Platino en 50 minutos",
+          "url": "https://www.youtube.com/watch?v=_x-MzZkneqc",
+          "thumbnail": "https://i.ytimg.com/vi/_x-MzZkneqc/maxresdefault.jpg",
+          "publishedAt": "2026-08-31T16:46:28Z"
+        },
+        {
+          "title": "PLATINO GRATIS y RÁPIDO (1 hora) - Guía de Bunny Raiders",
+          "url": "https://www.youtube.com/watch?v=yW9-PxP9-mE",
+          "thumbnail": "https://i.ytimg.com/vi/yW9-PxP9-mE/maxresdefault.jpg",
+          "publishedAt": "2026-08-23T16:59:31Z"
+        },
+        {
+          "title": "Completando TODOS los NIVELES de Ping Redux (juego gratis) | Platino en 2 horas",
+          "url": "https://www.youtube.com/watch?v=p1Wa4NBDIY8",
+          "thumbnail": "https://i.ytimg.com/vi/p1Wa4NBDIY8/maxresdefault.jpg",
+          "publishedAt": "2026-08-22T17:02:24Z"
+        },
+        {
+          "title": "Disney Atlantis: El Imperio Perdido - Gameplay 100% con TODOS los TROFEOS | Platino en 2,5 - 3 HORAS",
+          "url": "https://www.youtube.com/watch?v=LquqQ7HVsnM",
+          "thumbnail": "https://i.ytimg.com/vi/LquqQ7HVsnM/maxresdefault.jpg",
+          "publishedAt": "2026-08-21T12:22:24Z"
+        },
+        {
+          "title": "PLATINO GRATIS y RÁPIDO (20 minutos) - Guía de Piece Out Avatarland",
+          "url": "https://www.youtube.com/watch?v=MMNcHO40oYI",
+          "thumbnail": "https://i.ytimg.com/vi/MMNcHO40oYI/maxresdefault.jpg",
+          "publishedAt": "2026-08-18T07:13:05Z"
+        },
+        {
+          "title": "PLATINO GRATIS y RÁPIDO (30 minutos) - Guía de Real Cake Maker",
+          "url": "https://www.youtube.com/watch?v=m3EkwTlNxiQ",
+          "thumbnail": "https://i.ytimg.com/vi/m3EkwTlNxiQ/maxresdefault.jpg",
+          "publishedAt": "2026-08-17T22:02:27Z"
+        },
+        {
+          "title": "PLATINO GRATIS y ULTRARRÁPIDO (9 minutos) - Guía de Puzzle Drop Carnival",
+          "url": "https://www.youtube.com/watch?v=CVd4BBnsvds",
+          "thumbnail": "https://i.ytimg.com/vi/CVd4BBnsvds/maxresdefault.jpg",
+          "publishedAt": "2026-08-17T06:21:06Z"
+        },
+        {
+          "title": "PLATINO GRATIS y RÁPIDO (1,5 horas) - Guía de The Light in the Darkness",
+          "url": "https://www.youtube.com/watch?v=HRoPjdLZO0g",
+          "thumbnail": "https://i.ytimg.com/vi/HRoPjdLZO0g/maxresdefault.jpg",
+          "publishedAt": "2026-08-17T05:16:10Z"
+        },
+        {
+          "title": "Signalis - Gameplay 100% con TODOS los TROFEOS (Platino en 2-3 HORAS)",
+          "url": "https://www.youtube.com/watch?v=fdU5r883qgk",
+          "thumbnail": "https://i.ytimg.com/vi/fdU5r883qgk/maxresdefault.jpg",
+          "publishedAt": "2026-08-04T23:03:08Z"
+        },
+        {
+          "title": "Nuevo PLATINO GRATIS y RÁPIDO (4 horas) - Guía de Diamond Painting ASMR",
+          "url": "https://www.youtube.com/watch?v=kzNXR_MghGk",
+          "thumbnail": "https://i.ytimg.com/vi/kzNXR_MghGk/maxresdefault.jpg",
+          "publishedAt": "2026-07-26T18:12:34Z"
+        },
+        {
+          "title": "Mighty Morphin Power Rangers: Rita's Rewind - Gameplay 100% con TODOS los TROFEOS (Platino en 4 h.)",
+          "url": "https://www.youtube.com/watch?v=Lr-4yHRaarw",
+          "thumbnail": "https://i.ytimg.com/vi/Lr-4yHRaarw/maxresdefault.jpg",
+          "publishedAt": "2026-07-24T16:23:48Z"
+        },
+        {
+          "title": "Nuevo PLATINO GRATIS y RÁPIDO (2 horas) - Guía de Buffet Boss",
+          "url": "https://www.youtube.com/watch?v=psgxR4wwtnM",
+          "thumbnail": "https://i.ytimg.com/vi/psgxR4wwtnM/maxresdefault.jpg",
+          "publishedAt": "2026-07-23T03:16:38Z"
+        },
+        {
+          "title": "Nuevo PLATINO GRATIS y RÁPIDO (45 minutos) - Guía de The Legend Of Fireball",
+          "url": "https://www.youtube.com/watch?v=CSGh9hAKZ_E",
+          "thumbnail": "https://i.ytimg.com/vi/CSGh9hAKZ_E/maxresdefault.jpg",
+          "publishedAt": "2026-07-05T23:12:06Z"
+        },
+        {
+          "title": "Nuevo PLATINO GRATIS y ULTRARRÁPIDO (20 minutos) - Guía de Splash of Color",
+          "url": "https://www.youtube.com/watch?v=h-A1ScKFez4",
+          "thumbnail": "https://i.ytimg.com/vi/h-A1ScKFez4/maxresdefault.jpg",
+          "publishedAt": "2026-07-04T17:05:00Z"
+        },
+        {
+          "title": "PLATINO GRATIS y ULTRARRÁPIDO (20 minutos) - Guía de Ecchi Crush",
+          "url": "https://www.youtube.com/watch?v=q2O_1rJmN7I",
+          "thumbnail": "https://i.ytimg.com/vi/q2O_1rJmN7I/maxresdefault.jpg",
+          "publishedAt": "2026-06-08T18:17:33Z"
+        },
+        {
+          "title": "PLATINO GRATIS y ULTRARRÁPIDO (15 minutos) - Guía de Ecchi Secrets",
+          "url": "https://www.youtube.com/watch?v=QbvlVE5EtBM",
+          "thumbnail": "https://i.ytimg.com/vi/QbvlVE5EtBM/maxresdefault.jpg",
+          "publishedAt": "2026-06-04T15:29:38Z"
+        },
+        {
+          "title": "Consigue el platino REGALADO de este juego GRATIS en menos de 5 MINUTOS | Chess Mate",
+          "url": "https://www.youtube.com/watch?v=etY9utpDaEk",
+          "thumbnail": "https://i.ytimg.com/vi/etY9utpDaEk/maxresdefault.jpg",
+          "publishedAt": "2026-06-03T17:33:27Z"
+        },
+        {
+          "title": "Undertale - Gameplay 100% con TODOS los TROFEOS (Platino en 2 HORAS)",
+          "url": "https://www.youtube.com/watch?v=maKozLs7aCM",
+          "thumbnail": "https://i.ytimg.com/vi/maKozLs7aCM/maxresdefault.jpg",
+          "publishedAt": "2026-03-07T19:08:57Z"
+        },
+        {
+          "title": "PLATINO GRATIS y ULTRARRÁPIDO (15 minutos) - Guía de Halloween Puzzle",
+          "url": "https://www.youtube.com/watch?v=fGcySccPARA",
+          "thumbnail": "https://i.ytimg.com/vi/fGcySccPARA/maxresdefault.jpg",
+          "publishedAt": "2026-02-23T10:44:04Z"
+        },
+        {
+          "title": "Neva - Gameplay 100% con TODOS los TROFEOS (Platino en 2,5 HORAS)",
+          "url": "https://www.youtube.com/watch?v=Hx3YOiSXoRg",
+          "thumbnail": "https://i.ytimg.com/vi/Hx3YOiSXoRg/maxresdefault.jpg",
+          "publishedAt": "2026-02-18T23:12:05Z"
+        },
+        {
+          "title": "Venba - Gameplay 100% con TODOS los TROFEOS (¡Platino en 1 HORA!)",
+          "url": "https://www.youtube.com/watch?v=3FGwgE85Pns",
+          "thumbnail": "https://i.ytimg.com/vi/3FGwgE85Pns/maxresdefault.jpg",
+          "publishedAt": "2026-02-17T17:15:26Z"
+        },
+        {
+          "title": "PLATINO GRATIS y ULTRARRÁPIDO (15 minutos) - Guía de Puzzle Journey",
+          "url": "https://www.youtube.com/watch?v=BS97DWdrICs",
+          "thumbnail": "https://i.ytimg.com/vi/BS97DWdrICs/maxresdefault.jpg",
+          "publishedAt": "2026-02-07T04:19:31Z"
+        },
+        {
+          "title": "Nuevo PLATINO GRATIS y ULTRARRÁPIDO (15 minutos) - Guía de Avatar Island",
+          "url": "https://www.youtube.com/watch?v=K83tDxrHHS4",
+          "thumbnail": "https://i.ytimg.com/vi/K83tDxrHHS4/maxresdefault.jpg",
+          "publishedAt": "2026-01-31T14:22:33Z"
+        },
+        {
+          "title": "A Little to the Left - Gameplay 100% con SOLUCIÓN a TODOS los puzles (Platino en 6 HORAS)",
+          "url": "https://www.youtube.com/watch?v=DEy_UJENujk",
+          "thumbnail": "https://i.ytimg.com/vi/DEy_UJENujk/maxresdefault.jpg",
+          "publishedAt": "2026-01-21T19:06:06Z"
+        },
+        {
+          "title": "The Exit 8 - Guía del 100% de Trofeos (TODAS las ANOMALÍAS)",
+          "url": "https://www.youtube.com/watch?v=FAQCu04Qk-c",
+          "thumbnail": "https://i.ytimg.com/vi/FAQCu04Qk-c/maxresdefault.jpg",
+          "publishedAt": "2026-01-20T13:52:28Z"
+        },
+        {
+          "title": "Nuevo PLATINO GRATIS y ULTRARRÁPIDO (25 minutos) - Guía de Catch me if you can",
+          "url": "https://www.youtube.com/watch?v=mICnuF4Yhhw",
+          "thumbnail": "https://i.ytimg.com/vi/mICnuF4Yhhw/maxresdefault.jpg",
+          "publishedAt": "2026-01-17T00:06:22Z"
+        },
+        {
+          "title": "Otro PLATINO GRATIS y ULTRARRÁPIDO (15 minutos) - Guía de Coloring Book",
+          "url": "https://www.youtube.com/watch?v=oMY-si6p4WU",
+          "thumbnail": "https://i.ytimg.com/vi/oMY-si6p4WU/maxresdefault.jpg",
+          "publishedAt": "2026-01-07T16:43:02Z"
+        },
+        {
+          "title": "Nuevo PLATINO GRATIS y RÁPIDO (45 minutos) - Guía de Puzzle Galaxy",
+          "url": "https://www.youtube.com/watch?v=YMeTq59M7LQ",
+          "thumbnail": "https://i.ytimg.com/vi/YMeTq59M7LQ/maxresdefault.jpg",
+          "publishedAt": "2026-01-04T12:38:28Z"
+        },
+        {
+          "title": "Call of the Sea - Gameplay 100% con TODOS los SECRETOS y TROFEOS (Platino en 2 HORAS)",
+          "url": "https://www.youtube.com/watch?v=ZMT1uiAf5vE",
+          "thumbnail": "https://i.ytimg.com/vi/ZMT1uiAf5vE/maxresdefault.jpg",
+          "publishedAt": "2026-01-03T18:38:37Z"
+        },
+        {
+          "title": "Crow Country - Gameplay 100% Rango S+ con TODOS los SECRETOS y TROFEOS (Platino en 2 HORAS)",
+          "url": "https://www.youtube.com/watch?v=qZoLoKwTk34",
+          "thumbnail": "https://i.ytimg.com/vi/qZoLoKwTk34/maxresdefault.jpg",
+          "publishedAt": "2026-01-02T21:02:53Z"
+        },
+        {
+          "title": "Deliver Us The Moon - Gameplay 100% con TODOS los COLECCIONABLES y TROFEOS (Platino en 3 HORAS)",
+          "url": "https://www.youtube.com/watch?v=bn3TPqsFUec",
+          "thumbnail": "https://i.ytimg.com/vi/bn3TPqsFUec/maxresdefault.jpg",
+          "publishedAt": "2025-12-29T11:26:16Z"
+        },
+        {
+          "title": "CAT QUEST 3 - Gameplay 100% OPTIMIZADO con TODOS los TROFEOS (¡Platino en 5 HORAS!)",
+          "url": "https://www.youtube.com/watch?v=phJmtCF2EK8",
+          "thumbnail": "https://i.ytimg.com/vi/phJmtCF2EK8/maxresdefault.jpg",
+          "publishedAt": "2025-12-26T08:40:39Z"
+        },
+        {
+          "title": "The Gardens Between - Gameplay COMPLETO con TODOS los TROFEOS (Platino en 1 HORA)",
+          "url": "https://www.youtube.com/watch?v=xp9xciVinxo",
+          "thumbnail": "https://i.ytimg.com/vi/xp9xciVinxo/maxresdefault.jpg",
+          "publishedAt": "2025-11-28T21:48:41Z"
+        },
+        {
+          "title": "Mystic Pillars Remastered - Solución a TODOS los puzzles - Niveles 1 al 100 (Platino en 1,5 HORAS)",
+          "url": "https://www.youtube.com/watch?v=RPvwVnpx0q4",
+          "thumbnail": "https://i.ytimg.com/vi/RPvwVnpx0q4/maxresdefault.jpg",
+          "publishedAt": "2025-11-23T17:23:41Z"
+        },
+        {
+          "title": "Thank Goodness You're Here - Gameplay 100% con TODOS los TROFEOS (Platino en 1,5 HORAS)",
+          "url": "https://www.youtube.com/watch?v=8IUa9gVPyA0",
+          "thumbnail": "https://i.ytimg.com/vi/8IUa9gVPyA0/maxresdefault.jpg",
+          "publishedAt": "2025-11-20T19:42:23Z"
+        },
+        {
+          "title": "Still Wakes The Deep - Gameplay 100% con TODOS los TROFEOS (Platino en 3 HORAS)",
+          "url": "https://www.youtube.com/watch?v=oDuqSdkBR64",
+          "thumbnail": "https://i.ytimg.com/vi/oDuqSdkBR64/maxresdefault.jpg",
+          "publishedAt": "2025-11-19T20:13:40Z"
+        },
+        {
+          "title": "Totally Accurate Battle Simulator (TABS) - Gameplay 100% con TODOS los TROFEOS (Platino en 6 H)",
+          "url": "https://www.youtube.com/watch?v=TuN-pW3wSU8",
+          "thumbnail": "https://i.ytimg.com/vi/TuN-pW3wSU8/maxresdefault.jpg",
+          "publishedAt": "2025-11-11T19:46:10Z"
+        },
+        {
+          "title": "Cocoon - Gameplay 100% con TODOS los TROFEOS (Platino en 2 HORAS)",
+          "url": "https://www.youtube.com/watch?v=XwCdeS4ct50",
+          "thumbnail": "https://i.ytimg.com/vi/XwCdeS4ct50/maxresdefault.jpg",
+          "publishedAt": "2025-10-12T01:16:04Z"
+        },
+        {
+          "title": "Viewfinder - Gameplay 100% con TODOS los COLECCIONABLES y TROFEOS (Platino en 2 HORAS)",
+          "url": "https://www.youtube.com/watch?v=TjM0wPI69_c",
+          "thumbnail": "https://i.ytimg.com/vi/TjM0wPI69_c/maxresdefault.jpg",
+          "publishedAt": "2025-09-02T20:36:37Z"
+        },
+        {
+          "title": "Sword of the Sea - Gameplay 100% con TODOS los COLECCIONABLES y TROFEOS (Platino en 6 HORAS)",
+          "url": "https://www.youtube.com/watch?v=XVsE9uHgw0I",
+          "thumbnail": "https://i.ytimg.com/vi/XVsE9uHgw0I/maxresdefault.jpg",
+          "publishedAt": "2025-08-31T05:21:35Z"
+        },
+        {
+          "title": "INDIKA - Gameplay 100% con TODOS los TROFEOS (Platino en 3 HORAS)",
+          "url": "https://www.youtube.com/watch?v=hfjnPj1PQ8o",
+          "thumbnail": "https://i.ytimg.com/vi/hfjnPj1PQ8o/maxresdefault.jpg",
+          "publishedAt": "2025-08-19T20:39:30Z"
+        },
+        {
+          "title": "BLUEY: el videojuego - Gameplay 100% con TODOS los COLECCIONABLES y TROFEOS (Platino en 2 HORAS)",
+          "url": "https://www.youtube.com/watch?v=w0zeqgTGFT0",
+          "thumbnail": "https://i.ytimg.com/vi/w0zeqgTGFT0/maxresdefault.jpg",
+          "publishedAt": "2025-07-15T18:07:31Z"
+        },
+        {
+          "title": "Coffee Talk Episode 2 - Gameplay 100% con TODOS los trofeos (Platino en 3 o 9 HORAS)",
+          "url": "https://www.youtube.com/watch?v=lY3YBKDVtM0",
+          "thumbnail": "https://i.ytimg.com/vi/lY3YBKDVtM0/maxresdefault.jpg",
+          "publishedAt": "2025-04-10T03:09:17Z"
+        },
+        {
+          "title": "JUSANT - Gameplay 100% con TODOS los 105 COLECCIONABLES y TROFEOS (Platino en 4 HORAS)",
+          "url": "https://www.youtube.com/watch?v=UZBoGO0qz4o",
+          "thumbnail": "https://i.ytimg.com/vi/UZBoGO0qz4o/maxresdefault.jpg",
+          "publishedAt": "2025-07-07T11:56:32Z"
+        },
+        {
+          "title": "Pinball Heroes - Obtén uno de los PLATINOS más FÁCILES y RÁPIDOS (menos de 1 HORA)",
+          "url": "https://www.youtube.com/watch?v=iSUo7iG6yzU",
+          "thumbnail": "https://i.ytimg.com/vi/iSUo7iG6yzU/maxresdefault.jpg",
+          "publishedAt": "2025-06-16T14:25:40Z"
+        },
+        {
+          "title": "The Pedestrian - Obtén el 100% de Trofeos en 5 MINUTOS (No lo hagas si quieres disfrutar del juego)",
+          "url": "https://www.youtube.com/watch?v=gMUDovnzi_Q",
+          "thumbnail": "https://i.ytimg.com/vi/gMUDovnzi_Q/maxresdefault.jpg",
+          "publishedAt": "2025-06-15T22:11:29Z"
+        },
+        {
+          "title": "Coffee Talk - Gameplay 100% con TODOS los trofeos (Platino en 2 o 7 HORAS)",
+          "url": "https://www.youtube.com/watch?v=kacVMJWrv0M",
+          "thumbnail": "https://i.ytimg.com/vi/kacVMJWrv0M/maxresdefault.jpg",
+          "publishedAt": "2025-03-19T02:38:40Z"
+        },
+        {
+          "title": "ANNO: Mutationem - Gameplay 100% con TODOS los COLECCIONABLES y TROFEOS (Platino FÁCIL en 10 h.)",
+          "url": "https://www.youtube.com/watch?v=wq5l5fXEdK0",
+          "thumbnail": "https://i.ytimg.com/vi/wq5l5fXEdK0/maxresdefault.jpg",
+          "publishedAt": "2025-03-19T02:36:12Z"
+        },
+        {
+          "title": "CAT QUEST 2 - Gameplay 100% con TODOS los COLECCIONABLES y TROFEOS (¡Platino en 8 HORAS!)",
+          "url": "https://www.youtube.com/watch?v=fmGxWpkbZWg",
+          "thumbnail": "https://i.ytimg.com/vi/fmGxWpkbZWg/maxresdefault.jpg",
+          "publishedAt": "2025-03-19T02:37:24Z"
+        },
+        {
+          "title": "CAT QUEST - Gameplay 100% con TODOS los COLECCIONABLES y TROFEOS (¡Platino en 6,5 HORAS!)",
+          "url": "https://www.youtube.com/watch?v=ceHacHvuXa8",
+          "thumbnail": "https://i.ytimg.com/vi/ceHacHvuXa8/maxresdefault.jpg",
+          "publishedAt": "2025-03-19T02:37:35Z"
+        },
+        {
+          "title": "GRIS - Gameplay 100% con TODOS los COLECCIONABLES y TROFEOS (¡Platino en 2,5 HORAS!)",
+          "url": "https://www.youtube.com/watch?v=Z9v_6PzFRyc",
+          "thumbnail": "https://i.ytimg.com/vi/Z9v_6PzFRyc/maxresdefault.jpg",
+          "publishedAt": "2025-03-19T02:37:44Z"
+        },
+        {
+          "title": "ENDER LILIES - Gameplay 100% con TODOS los 338 COLECCIONABLES y TROFEOS (Platino FÁCIL)",
+          "url": "https://www.youtube.com/watch?v=VuOp4fFci4c",
+          "thumbnail": "https://i.ytimg.com/vi/VuOp4fFci4c/maxresdefault.jpg",
+          "publishedAt": "2025-03-19T02:37:56Z"
+        },
+        {
+          "title": "ASTRO's PLAYROOM - Gameplay 100% con TODOS los COLECCIONABLES y TROFEOS (¡Platino en 2,5 HORAS!)",
+          "url": "https://www.youtube.com/watch?v=jPZhyjjhg94",
+          "thumbnail": "https://i.ytimg.com/vi/jPZhyjjhg94/maxresdefault.jpg",
+          "publishedAt": "2025-03-19T02:38:05Z"
+        },
+        {
+          "title": "Hellblade: Senua’s Sacrifice -FULL Gameplay- Platino/1000G en 5 HORAS (TODAS las piedras de relato)",
+          "url": "https://www.youtube.com/watch?v=6PxoUkDFLsM",
+          "thumbnail": "https://i.ytimg.com/vi/6PxoUkDFLsM/maxresdefault.jpg",
+          "publishedAt": "2025-03-19T02:38:13Z"
+        },
+        {
+          "title": "Scorn - Gameplay y Guía completa de Logros (Scorn walkthrough Xbox Series X)",
+          "url": "https://www.youtube.com/watch?v=D-dLEsXm7h0",
+          "thumbnail": "https://i.ytimg.com/vi/D-dLEsXm7h0/maxresdefault.jpg",
+          "publishedAt": "2025-03-19T02:38:22Z"
+        },
+        {
+          "title": "Subnautica - ¡Consigue su Platino en 40 MINUTOS! (No lo hagas si quieres disfrutar del juego)",
+          "url": "https://www.youtube.com/watch?v=Dvu9C8r9rIU",
+          "thumbnail": "https://i.ytimg.com/vi/Dvu9C8r9rIU/maxresdefault.jpg",
+          "publishedAt": "2025-03-19T02:38:30Z"
         }
       ]
     },
@@ -20165,6 +20171,306 @@
           "url": "https://www.youtube.com/watch?v=EwA17s8cvJo",
           "thumbnail": "https://i.ytimg.com/vi/EwA17s8cvJo/maxresdefault.jpg",
           "publishedAt": "2022-03-25T09:49:56Z"
+        },
+        {
+          "title": "Elden Ring - Método para tener vida INFINITA muy FÁCIL. Curación ilimitada.",
+          "url": "https://www.youtube.com/watch?v=QP5Y32Eo63o",
+          "thumbnail": "https://i.ytimg.com/vi/QP5Y32Eo63o/maxresdefault.jpg",
+          "publishedAt": "2022-03-24T11:38:01Z"
+        },
+        {
+          "title": "Elden Ring - ¿Cómo conseguir uno de los MEJORES espíritus de invocación? (Tiche, la cuchillo negro)",
+          "url": "https://www.youtube.com/watch?v=obs1r-i4EDA",
+          "thumbnail": "https://i.ytimg.com/vi/obs1r-i4EDA/maxresdefault.jpg",
+          "publishedAt": "2022-03-24T10:35:35Z"
+        },
+        {
+          "title": "Elden Ring - ¿Cómo llegar a la parte superior del acantilado de la aldea de los albináuricos?",
+          "url": "https://www.youtube.com/watch?v=kBlvZyfa6pc",
+          "thumbnail": "https://i.ytimg.com/vi/kBlvZyfa6pc/maxresdefault.jpg",
+          "publishedAt": "2022-03-23T16:06:40Z"
+        },
+        {
+          "title": "Elden Ring - ¿Cómo abrir el cofre junto a Rennala? (llave del palacio desechada)",
+          "url": "https://www.youtube.com/watch?v=DYRelnaJERo",
+          "thumbnail": "https://i.ytimg.com/vi/DYRelnaJERo/maxresdefault.jpg",
+          "publishedAt": "2022-03-23T04:15:02Z"
+        },
+        {
+          "title": "Elden Ring- ¿Cómo conseguir el LEGENDARIO Espadón de la Luna Negra? (Completando questline de Ranni)",
+          "url": "https://www.youtube.com/watch?v=dQZPp4Ktarg",
+          "thumbnail": "https://i.ytimg.com/vi/dQZPp4Ktarg/maxresdefault.jpg",
+          "publishedAt": "2022-03-23T03:12:09Z"
+        },
+        {
+          "title": "Elden Ring - Localización de la llave para Thops. Recompensa: Gesto de erudición",
+          "url": "https://www.youtube.com/watch?v=YTIbXHmCJ9k",
+          "thumbnail": "https://i.ytimg.com/vi/YTIbXHmCJ9k/maxresdefault.jpg",
+          "publishedAt": "2022-03-22T22:39:15Z"
+        },
+        {
+          "title": "Elden Ring - Consigue el arma más RARA y LOCA del juego: Dedo anillado",
+          "url": "https://www.youtube.com/watch?v=eHVRDa9Z8j4",
+          "thumbnail": "https://i.ytimg.com/vi/eHVRDa9Z8j4/maxresdefault.jpg",
+          "publishedAt": "2022-03-22T18:01:44Z"
+        },
+        {
+          "title": "Elden Ring - Torre Sagrada oriental de Altus. Activa la Gran Runa de Morgott.",
+          "url": "https://www.youtube.com/watch?v=V9BBtZ2WOGQ",
+          "thumbnail": "https://i.ytimg.com/vi/V9BBtZ2WOGQ/maxresdefault.jpg",
+          "publishedAt": "2022-03-22T01:08:23Z"
+        },
+        {
+          "title": "Elden Ring - Leyndell, Capital del Reino (Parte 3/3) + Boss Morgott, rey de los Augurios.",
+          "url": "https://www.youtube.com/watch?v=l9COJGaF8Us",
+          "thumbnail": "https://i.ytimg.com/vi/l9COJGaF8Us/maxresdefault.jpg",
+          "publishedAt": "2022-03-22T00:50:41Z"
+        },
+        {
+          "title": "Elden Ring-Esta es la ÚNICA Arma Legendaria PERDIBLE del juego ¡No la dejes escapar! Rayo de Gransax",
+          "url": "https://www.youtube.com/watch?v=sWm-MkmnVuo",
+          "thumbnail": "https://i.ytimg.com/vi/sWm-MkmnVuo/maxresdefault.jpg",
+          "publishedAt": "2022-03-22T00:46:15Z"
+        },
+        {
+          "title": "Elden Ring - Leyndell, Capital del Reino (Parte 2/3) + Boss Godfrey, primer Señor del Círculo",
+          "url": "https://www.youtube.com/watch?v=qLtNH2Px6Ew",
+          "thumbnail": "https://i.ytimg.com/vi/qLtNH2Px6Ew/maxresdefault.jpg",
+          "publishedAt": "2022-03-21T23:03:56Z"
+        },
+        {
+          "title": "Elden Ring - Localización de las cenizas de Perfumista corrupto Carmaan (Invocación)",
+          "url": "https://www.youtube.com/watch?v=axMx4ruCvlY",
+          "thumbnail": "https://i.ytimg.com/vi/axMx4ruCvlY/maxresdefault.jpg",
+          "publishedAt": "2022-03-21T05:32:32Z"
+        },
+        {
+          "title": "Elden Ring - No te pierdas esta pared SUPER SECRETA que necesita 50 golpes para romperse ¿bug?",
+          "url": "https://www.youtube.com/watch?v=DQHo-AUa7g8",
+          "thumbnail": "https://i.ytimg.com/vi/DQHo-AUa7g8/maxresdefault.jpg",
+          "publishedAt": "2022-03-21T04:17:00Z"
+        },
+        {
+          "title": "Elden Ring - Leyndell, Capital del Reino (Parte 1/3) - Explorando todos los rincones de la Capital",
+          "url": "https://www.youtube.com/watch?v=iI3c8x4ZC2M",
+          "thumbnail": "https://i.ytimg.com/vi/iI3c8x4ZC2M/maxresdefault.jpg",
+          "publishedAt": "2022-03-21T03:23:43Z"
+        },
+        {
+          "title": "Elden Ring -  Despeñarruinas, otro camino hacia la Meseta Altus - Trofeo \"Dragón de magma Makar\"",
+          "url": "https://www.youtube.com/watch?v=e76blkI_7HM",
+          "thumbnail": "https://i.ytimg.com/vi/e76blkI_7HM/maxresdefault.jpg",
+          "publishedAt": "2022-03-20T18:16:29Z"
+        },
+        {
+          "title": "Cuando un Manco se entera que un jugador se pasó Elden Ring sin recibir UN SOLO GOLPE",
+          "url": "https://www.youtube.com/watch?v=y_X-ucsxvVQ",
+          "thumbnail": "https://i.ytimg.com/vi/y_X-ucsxvVQ/maxresdefault.jpg",
+          "publishedAt": "2022-03-19T23:39:43Z"
+        },
+        {
+          "title": "Elden Ring - Consigue la hoja dactilocida y entrégasela a Ranni para seguir su questline y su equipo",
+          "url": "https://www.youtube.com/watch?v=Jj-RDFluFug",
+          "thumbnail": "https://i.ytimg.com/vi/Jj-RDFluFug/maxresdefault.jpg",
+          "publishedAt": "2022-03-19T22:49:12Z"
+        },
+        {
+          "title": "Elden Ring - ¿Cómo conseguir las Cenizas de Lágrima Mimética? Invocación que crea una COPIA nuestra",
+          "url": "https://www.youtube.com/watch?v=tISk8EmDvOI",
+          "thumbnail": "https://i.ytimg.com/vi/tISk8EmDvOI/maxresdefault.jpg",
+          "publishedAt": "2022-03-19T06:42:47Z"
+        },
+        {
+          "title": "Elden Ring - Activa 6 pilares para el Boss opcional de Nokron. Trofeo Espíritu Ancestral Majestuoso",
+          "url": "https://www.youtube.com/watch?v=rgQcIJ4i5cE",
+          "thumbnail": "https://i.ytimg.com/vi/rgQcIJ4i5cE/maxresdefault.jpg",
+          "publishedAt": "2022-03-19T05:45:52Z"
+        },
+        {
+          "title": "Elden Ring - Nokron, Ciudad Eterna (2/2) - Jefes Espíritu ancestral majestuoso y Gárgolas denodadas",
+          "url": "https://www.youtube.com/watch?v=2xxv7WkPJaw",
+          "thumbnail": "https://i.ytimg.com/vi/2xxv7WkPJaw/maxresdefault.jpg",
+          "publishedAt": "2022-03-19T05:26:13Z"
+        },
+        {
+          "title": "Elden Ring - Nokron, Ciudad Eterna (Parte 1/2) - Cenizas de lágrima mimética y Hoja dactilocida",
+          "url": "https://www.youtube.com/watch?v=t68vtoGmrac",
+          "thumbnail": "https://i.ytimg.com/vi/t68vtoGmrac/maxresdefault.jpg",
+          "publishedAt": "2022-03-18T04:28:39Z"
+        },
+        {
+          "title": "Elden Ring - Cuando un CABR*N deja un mensaje JUSTO ENCIMA de un sitio de gracia...",
+          "url": "https://www.youtube.com/watch?v=FFgPJ2eDcnI",
+          "thumbnail": "https://i.ytimg.com/vi/FFgPJ2eDcnI/maxresdefault.jpg",
+          "publishedAt": "2022-03-18T02:01:53Z"
+        },
+        {
+          "title": "Elden Ring - Kratos VS Kratos",
+          "url": "https://www.youtube.com/watch?v=vpblEi33usc",
+          "thumbnail": "https://i.ytimg.com/vi/vpblEi33usc/maxresdefault.jpg",
+          "publishedAt": "2022-03-18T01:48:47Z"
+        },
+        {
+          "title": "Elden Ring - ¿Cómo derrotar MUY FÁCIL al Boss Lágrima Mimética en Nokron, la ciudad eterna?",
+          "url": "https://www.youtube.com/watch?v=grCN2-tLkAI",
+          "thumbnail": "https://i.ytimg.com/vi/grCN2-tLkAI/maxresdefault.jpg",
+          "publishedAt": "2022-03-18T01:35:35Z"
+        },
+        {
+          "title": "Elden Ring - ¿Cómo pausar TOTALMENTE el juego?",
+          "url": "https://www.youtube.com/watch?v=TpkJfQt7wxg",
+          "thumbnail": "https://i.ytimg.com/vi/TpkJfQt7wxg/maxresdefault.jpg",
+          "publishedAt": "2022-03-18T00:49:12Z"
+        },
+        {
+          "title": "Elden Ring - ¿Dónde llevar la Gran Runa de Radahn? (Escalando la Torre Sagrada de Caelid)",
+          "url": "https://www.youtube.com/watch?v=14sOkW_AvF0",
+          "thumbnail": "https://i.ytimg.com/vi/14sOkW_AvF0/maxresdefault.jpg",
+          "publishedAt": "2022-03-17T03:23:19Z"
+        },
+        {
+          "title": "Elden Ring - Haz esto si no puedes derrotar a un Boss y quieres recuperar tus Runas",
+          "url": "https://www.youtube.com/watch?v=KtVDfmDFkjo",
+          "thumbnail": "https://i.ytimg.com/vi/KtVDfmDFkjo/maxresdefault.jpg",
+          "publishedAt": "2022-03-17T02:46:46Z"
+        },
+        {
+          "title": "Elden Ring - Castillo de Melena Roja +  Boss Radahn, Azote de las Estrellas",
+          "url": "https://www.youtube.com/watch?v=V4aALAnTWgA",
+          "thumbnail": "https://i.ytimg.com/vi/V4aALAnTWgA/maxresdefault.jpg",
+          "publishedAt": "2022-03-17T00:57:06Z"
+        },
+        {
+          "title": "Elden Ring - Mata al colosal Dragón Greyoll y consigue su Rugido, además de 5 corazones de dragón",
+          "url": "https://www.youtube.com/watch?v=wVWFu-hrbM4",
+          "thumbnail": "https://i.ytimg.com/vi/wVWFu-hrbM4/maxresdefault.jpg",
+          "publishedAt": "2022-03-16T18:35:45Z"
+        },
+        {
+          "title": "Elden Ring - ¿Cómo llegar a la mansión del volcán y conseguir la Rueda de Ghiza? (Espectacular arma)",
+          "url": "https://www.youtube.com/watch?v=TOjx6teYpUs",
+          "thumbnail": "https://i.ytimg.com/vi/TOjx6teYpUs/maxresdefault.jpg",
+          "publishedAt": "2022-03-16T05:04:19Z"
+        },
+        {
+          "title": "Elden Ring - Cuando crees que existen buenas personas en este mundo...",
+          "url": "https://www.youtube.com/watch?v=ZuUIUT1DkiM",
+          "thumbnail": "https://i.ytimg.com/vi/ZuUIUT1DkiM/maxresdefault.jpg",
+          "publishedAt": "2022-03-16T00:04:09Z"
+        },
+        {
+          "title": "Elden Ring - ¿Cómo conseguir Umbrapiedras de forja (3 y 4) INFINITAS) (Boss Galería de Altus)",
+          "url": "https://www.youtube.com/watch?v=sxEJtiKChzA",
+          "thumbnail": "https://i.ytimg.com/vi/sxEJtiKChzA/maxresdefault.jpg",
+          "publishedAt": "2022-03-15T20:48:03Z"
+        },
+        {
+          "title": "Elden Ring - ¿Cómo activar el Gran Elevador de Dectus?",
+          "url": "https://www.youtube.com/watch?v=zldYQB2S594",
+          "thumbnail": "https://i.ytimg.com/vi/zldYQB2S594/maxresdefault.jpg",
+          "publishedAt": "2022-03-15T12:02:07Z"
+        },
+        {
+          "title": "Elden Ring-Haz esto después de derrotar a Espíritu Ancestral para avanzar hacia el final Era Estelar",
+          "url": "https://www.youtube.com/watch?v=8NrJN1ED85I",
+          "thumbnail": "https://i.ytimg.com/vi/8NrJN1ED85I/maxresdefault.jpg",
+          "publishedAt": "2022-03-15T03:03:33Z"
+        },
+        {
+          "title": "Elden Ring - Halla los 8 pilares y accede al Boss opcional del Río Sofra. Trofeo Espíritu Ancestral",
+          "url": "https://www.youtube.com/watch?v=OrGWG9Qja7o",
+          "thumbnail": "https://i.ytimg.com/vi/OrGWG9Qja7o/maxresdefault.jpg",
+          "publishedAt": "2022-03-14T16:51:38Z"
+        },
+        {
+          "title": "Elden Ring - El Río Sofra - Desbloqueando el Boss opcional \"Espítu Ancestral\" (Trofeo)",
+          "url": "https://www.youtube.com/watch?v=2ZpBq86fc90",
+          "thumbnail": "https://i.ytimg.com/vi/2ZpBq86fc90/maxresdefault.jpg",
+          "publishedAt": "2022-03-14T16:00:21Z"
+        },
+        {
+          "title": "Elden Ring - La mansión de los Caria + Boss Guardia Real Loretta",
+          "url": "https://www.youtube.com/watch?v=VKoGhUlW5G8",
+          "thumbnail": "https://i.ytimg.com/vi/VKoGhUlW5G8/maxresdefault.jpg",
+          "publishedAt": "2022-03-13T18:21:43Z"
+        },
+        {
+          "title": "Elden Ring - Academia de Raya Lucaria (Parte 2/2) + Boss Rennala, Reina de la Luna Llena",
+          "url": "https://www.youtube.com/watch?v=VSoLo-uDFWg",
+          "thumbnail": "https://i.ytimg.com/vi/VSoLo-uDFWg/maxresdefault.jpg",
+          "publishedAt": "2022-03-13T05:11:38Z"
+        },
+        {
+          "title": "Elden Ring - Consigue el Escarabeo de Oro para multiplicar tus RUNAS!¡ y subir de nivel MÁS RÁPIDO",
+          "url": "https://www.youtube.com/watch?v=-Yc4XqMintM",
+          "thumbnail": "https://i.ytimg.com/vi/-Yc4XqMintM/maxresdefault.jpg",
+          "publishedAt": "2022-03-12T23:35:52Z"
+        },
+        {
+          "title": "Elden Ring- Consigue el Espadón de hoja injertada y el trofeo Bastardo Leonino en Castillo de Morne",
+          "url": "https://www.youtube.com/watch?v=ZJhoFaoKzSE",
+          "thumbnail": "https://i.ytimg.com/vi/ZJhoFaoKzSE/maxresdefault.jpg",
+          "publishedAt": "2022-03-12T22:45:01Z"
+        },
+        {
+          "title": "Elden Ring - ¿Cómo conseguir que Roderika mejores tus espíritus? (Afinar espíritus)",
+          "url": "https://www.youtube.com/watch?v=_q-xfbb_7ZI",
+          "thumbnail": "https://i.ytimg.com/vi/_q-xfbb_7ZI/maxresdefault.jpg",
+          "publishedAt": "2022-03-12T16:06:17Z"
+        },
+        {
+          "title": "Elden Ring-Localización de cenizas de soldado de Raya Lucaria (Invocación - Catacumbas de Finiseda)",
+          "url": "https://www.youtube.com/watch?v=b0W3xPQZKRk",
+          "thumbnail": "https://i.ytimg.com/vi/b0W3xPQZKRk/maxresdefault.jpg",
+          "publishedAt": "2022-03-12T14:58:55Z"
+        },
+        {
+          "title": "Elden Ring - Farmea 5 MILLONES de runas por hora con este SENCILLO método (Palacio de Mohgwyn)",
+          "url": "https://www.youtube.com/watch?v=BkPDrB6uQYE",
+          "thumbnail": "https://i.ytimg.com/vi/BkPDrB6uQYE/maxresdefault.jpg",
+          "publishedAt": "2022-03-11T19:45:55Z"
+        },
+        {
+          "title": "Cuando te matan más de 1000 veces en Elden Ring",
+          "url": "https://www.youtube.com/watch?v=GH3D0tjPFbM",
+          "thumbnail": "https://i.ytimg.com/vi/GH3D0tjPFbM/maxresdefault.jpg",
+          "publishedAt": "2022-03-10T18:30:31Z"
+        },
+        {
+          "title": "¿Por qué cojones ruedan las ovejas en Elden Ring?",
+          "url": "https://www.youtube.com/watch?v=59NKgQwVME4",
+          "thumbnail": "https://i.ytimg.com/vi/59NKgQwVME4/maxresdefault.jpg",
+          "publishedAt": "2022-03-10T17:38:49Z"
+        },
+        {
+          "title": "Elden Ring-¿Cómo curar la putrefacción roja? (Bolos Conservantes, Llama Purifícame, Manual Armero 6)",
+          "url": "https://www.youtube.com/watch?v=k_vzXIyKc1U",
+          "thumbnail": "https://i.ytimg.com/vi/k_vzXIyKc1U/maxresdefault.jpg",
+          "publishedAt": "2022-03-10T14:07:09Z"
+        },
+        {
+          "title": "Elden Ring - Localización del mapa del Río Sofra",
+          "url": "https://www.youtube.com/watch?v=b5ms2olPhdw",
+          "thumbnail": "https://i.ytimg.com/vi/b5ms2olPhdw/maxresdefault.jpg",
+          "publishedAt": "2022-03-10T12:48:40Z"
+        },
+        {
+          "title": "Elden Ring - Localización de los mapas de Caelid y Montedrago",
+          "url": "https://www.youtube.com/watch?v=02BKQpgQJVc",
+          "thumbnail": "https://i.ytimg.com/vi/02BKQpgQJVc/maxresdefault.jpg",
+          "publishedAt": "2022-03-10T12:08:41Z"
+        },
+        {
+          "title": "Elden Ring - Localización del mapa de Necrolimbo Este",
+          "url": "https://www.youtube.com/watch?v=oxbhkcR-KGA",
+          "thumbnail": "https://i.ytimg.com/vi/oxbhkcR-KGA/maxresdefault.jpg",
+          "publishedAt": "2022-03-10T11:57:25Z"
+        },
+        {
+          "title": "Elden Ring - Farmea 500.000 runas por hora SIN LUCHAR (método sencillísimo)",
+          "url": "https://www.youtube.com/watch?v=YYSVogtKv-4",
+          "thumbnail": "https://i.ytimg.com/vi/YYSVogtKv-4/maxresdefault.jpg",
+          "publishedAt": "2022-03-06T05:10:31Z"
         },
         {
           "title": "Elden Ring - Localización del teletransporte al Santuario de la Bestia (Lugar para farmeo de runas)",
