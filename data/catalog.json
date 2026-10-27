@@ -1,14 +1,26 @@
 {
   "channelUrl": "https://www.youtube.com/channel/UCTzl2vYpWCOkWnG0KRNEAzQ",
-  "generatedAt": "2026-10-27T13:07:32.273Z",
+  "generatedAt": "2026-10-27T19:01:06.868Z",
   "games": [
     {
       "id": "PLri3WTYegpZCNExL40e5LVHVDDRJn9ieH",
       "title": "Crimson Desert",
       "description": "Gameplay y guía completos para el platino de Crimson Desert",
-      "thumbnail": "https://i.ytimg.com/vi/H7VtZo0gQyo/maxresdefault.jpg",
-      "updatedAt": "2026-10-26T18:15:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/z3HLs13kQPE/maxresdefault.jpg",
+      "updatedAt": "2026-10-27T17:12:52Z",
       "videos": [
+        {
+          "title": "Respuestas correctas en la misión \"Sombras en la aldea\" | Crimson Desert",
+          "url": "https://www.youtube.com/watch?v=z3HLs13kQPE",
+          "thumbnail": "https://i.ytimg.com/vi/z3HLs13kQPE/maxresdefault.jpg",
+          "publishedAt": "2026-10-27T17:12:52Z"
+        },
+        {
+          "title": "Respuestas correctas en la misión \"Silencio roto\" | Crimson Desert",
+          "url": "https://www.youtube.com/watch?v=n0cQVl7qk_E",
+          "thumbnail": "https://i.ytimg.com/vi/n0cQVl7qk_E/maxresdefault.jpg",
+          "publishedAt": "2026-10-27T13:33:58Z"
+        },
         {
           "title": "Ubicación de los 53 Recuerdos efímeros de Demeniss | Crimson Desert",
           "url": "https://www.youtube.com/watch?v=H7VtZo0gQyo",
@@ -30763,10 +30775,154 @@
           "publishedAt": "2025-02-09T23:44:55Z"
         },
         {
+          "title": "Kingdom Come Deliverance II - ¿Cómo conseguir el Trofeo / Logro \"Tirador astuto\"?",
+          "url": "https://www.youtube.com/watch?v=3sWVY_f1fP4",
+          "thumbnail": "https://i.ytimg.com/vi/3sWVY_f1fP4/maxresdefault.jpg",
+          "publishedAt": "2025-02-09T20:57:31Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - ¿Cómo conseguir el Trofeo / Logro \"Solo ante el peligro\"?",
+          "url": "https://www.youtube.com/watch?v=MOyN3qIxPO8",
+          "thumbnail": "https://i.ytimg.com/vi/MOyN3qIxPO8/maxresdefault.jpg",
+          "publishedAt": "2025-02-09T20:16:52Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - ¿Cómo recuperar a Chucho SI LO ENVIAMOS A CASA?",
+          "url": "https://www.youtube.com/watch?v=JZiT7TK1M0w",
+          "thumbnail": "https://i.ytimg.com/vi/JZiT7TK1M0w/maxresdefault.jpg",
+          "publishedAt": "2025-02-09T19:58:24Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - ¿Cómo conseguir el Trofeo / Logro \"Pistolero primigenio\"?",
+          "url": "https://www.youtube.com/watch?v=NVP8VUzjqqw",
+          "thumbnail": "https://i.ytimg.com/vi/NVP8VUzjqqw/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T23:00:35Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - ¿Cómo conseguir el Trofeo / Logro \"Reforjado a fuego\"?",
+          "url": "https://www.youtube.com/watch?v=mQjNKnSNdyI",
+          "thumbnail": "https://i.ytimg.com/vi/mQjNKnSNdyI/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T21:02:32Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - ¿Cómo conseguir el Trofeo / Logro \"Con labia y sin soga\"?",
+          "url": "https://www.youtube.com/watch?v=Y9j971OJBfE",
+          "thumbnail": "https://i.ytimg.com/vi/Y9j971OJBfE/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T20:33:21Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - ¿Cómo conseguir el Trofeo / Logro \"Brillante\"?",
+          "url": "https://www.youtube.com/watch?v=udEEC0DK36c",
+          "thumbnail": "https://i.ytimg.com/vi/udEEC0DK36c/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T19:57:55Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - ¿Cómo conseguir el Trofeo / Logro \"A mimir\"?",
+          "url": "https://www.youtube.com/watch?v=UqZjp5kJMkI",
+          "thumbnail": "https://i.ytimg.com/vi/UqZjp5kJMkI/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T19:02:20Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - ¿Cómo conseguir el Trofeo / Logro \"A cañonazos\"?",
+          "url": "https://www.youtube.com/watch?v=S_2Agc4MMno",
+          "thumbnail": "https://i.ytimg.com/vi/S_2Agc4MMno/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T18:53:18Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - ¿Cómo conseguir el Trofeo / Logro \"¡Mis zapatos!\"?",
+          "url": "https://www.youtube.com/watch?v=vCRtStzpnqg",
+          "thumbnail": "https://i.ytimg.com/vi/vCRtStzpnqg/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T18:20:25Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - ¿Cómo conseguir el Trofeo / Logro \"¡Hip, hip, bum!\"?",
+          "url": "https://www.youtube.com/watch?v=LbviLLb_Vso",
+          "thumbnail": "https://i.ytimg.com/vi/LbviLLb_Vso/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T17:32:55Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - El día del juicio final (FINAL DEL JUEGO + ESCENAS POSTCRÉDITOS)",
+          "url": "https://www.youtube.com/watch?v=S3YI2lBTx9w",
+          "thumbnail": "https://i.ytimg.com/vi/S3YI2lBTx9w/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T14:47:04Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Extremaunción (Misión principal)",
+          "url": "https://www.youtube.com/watch?v=VTiz_YsZJ4w",
+          "thumbnail": "https://i.ytimg.com/vi/VTiz_YsZJ4w/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T14:44:15Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - ¿Cómo conseguir el Trofeo / Logro \"Cara a cara\"?",
+          "url": "https://www.youtube.com/watch?v=nF-Rtjcz-Pg",
+          "thumbnail": "https://i.ytimg.com/vi/nF-Rtjcz-Pg/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T14:30:45Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II- Solución al acertijo de Barley el enigmático (Merino con doce hombres)",
+          "url": "https://www.youtube.com/watch?v=pZRZBU0NoQI",
+          "thumbnail": "https://i.ytimg.com/vi/pZRZBU0NoQI/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T04:04:06Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Ajuste de cuentas (Misión principal)",
+          "url": "https://www.youtube.com/watch?v=rJjsR9pd41I",
+          "thumbnail": "https://i.ytimg.com/vi/rJjsR9pd41I/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T03:57:53Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Hambre y desesperación (Misión principal)",
+          "url": "https://www.youtube.com/watch?v=LyvJezJP4k0",
+          "thumbnail": "https://i.ytimg.com/vi/LyvJezJP4k0/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T03:54:27Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Bajo asedio (Misión principal)",
+          "url": "https://www.youtube.com/watch?v=TP4J4wmzVWw",
+          "thumbnail": "https://i.ytimg.com/vi/TP4J4wmzVWw/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T03:50:29Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Mapa de Bohuta (Localización y solución)",
+          "url": "https://www.youtube.com/watch?v=fQSQzqb99tc",
+          "thumbnail": "https://i.ytimg.com/vi/fQSQzqb99tc/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T03:48:47Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Así empieza... (Misión principal)",
+          "url": "https://www.youtube.com/watch?v=8jr37cORxEc",
+          "thumbnail": "https://i.ytimg.com/vi/8jr37cORxEc/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T03:45:05Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Civitas pragensis (Misión principal)",
+          "url": "https://www.youtube.com/watch?v=93sz32voETk",
+          "thumbnail": "https://i.ytimg.com/vi/93sz32voETk/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T03:42:37Z"
+        },
+        {
           "title": "Kingdom Come Deliverance II - ¿Cómo conseguir el Trofeo / Logro \"Cardenal de pura cepa\"?",
           "url": "https://www.youtube.com/watch?v=pjbw8nRFmng",
           "thumbnail": "https://i.ytimg.com/vi/pjbw8nRFmng/maxresdefault.jpg",
           "publishedAt": "2025-02-08T03:35:51Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Cuestiones italianas (Misión principal)",
+          "url": "https://www.youtube.com/watch?v=ahfF6lLO1so",
+          "thumbnail": "https://i.ytimg.com/vi/ahfF6lLO1so/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T02:38:37Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - ¿Cómo conseguir el Trofeo / Logro \"Maese de maeses\"?",
+          "url": "https://www.youtube.com/watch?v=hcBunrSWfAU",
+          "thumbnail": "https://i.ytimg.com/vi/hcBunrSWfAU/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T02:34:56Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Honor perdido (Misión Secundaria)",
+          "url": "https://www.youtube.com/watch?v=t7RH8sU9byo",
+          "thumbnail": "https://i.ytimg.com/vi/t7RH8sU9byo/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T01:24:20Z"
         },
         {
           "title": "Kingdom Come Deliverance II - Oratores  (Misión principal)",
@@ -30775,10 +30931,118 @@
           "publishedAt": "2025-02-08T01:19:14Z"
         },
         {
+          "title": "Kingdom Come Deliverance II - Justo donde la X (Mapa del tesoro de Krizan",
+          "url": "https://www.youtube.com/watch?v=0deA2Xwro1E",
+          "thumbnail": "https://i.ytimg.com/vi/0deA2Xwro1E/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T01:16:35Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - ¿Cómo conseguir el Trofeo / Logro \"El hombre elusivo\"?",
+          "url": "https://www.youtube.com/watch?v=n9hCnK2Ldmo",
+          "thumbnail": "https://i.ytimg.com/vi/n9hCnK2Ldmo/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T01:12:57Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Bailando con el Diablo (Misión principal)",
+          "url": "https://www.youtube.com/watch?v=XG9FFTRMoK4",
+          "thumbnail": "https://i.ytimg.com/vi/XG9FFTRMoK4/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T00:39:34Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Botín de guerra (Misión Secundaria)",
+          "url": "https://www.youtube.com/watch?v=9nV0_D9lZrw",
+          "thumbnail": "https://i.ytimg.com/vi/9nV0_D9lZrw/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T00:36:49Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Atila (Tarea)",
+          "url": "https://www.youtube.com/watch?v=tcOp5yn9G9Y",
+          "thumbnail": "https://i.ytimg.com/vi/tcOp5yn9G9Y/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T00:34:04Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - El acosador (Tarea)",
+          "url": "https://www.youtube.com/watch?v=hJI4R52yDGE",
+          "thumbnail": "https://i.ytimg.com/vi/hJI4R52yDGE/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T00:31:53Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Como en los viejos tiempos (Tarea)",
+          "url": "https://www.youtube.com/watch?v=_VCSsVOx_lw",
+          "thumbnail": "https://i.ytimg.com/vi/_VCSsVOx_lw/maxresdefault.jpg",
+          "publishedAt": "2025-02-08T00:28:12Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - ¿Cómo conseguir el Trofeo / Logro \"Las cabezas de la hidra\"?",
+          "url": "https://www.youtube.com/watch?v=AOPNv3q2Ghg",
+          "thumbnail": "https://i.ytimg.com/vi/AOPNv3q2Ghg/maxresdefault.jpg",
+          "publishedAt": "2025-02-07T23:44:39Z"
+        },
+        {
           "title": "Kingdom Come Deliverance II - La guarida del león (Misión principal)",
           "url": "https://www.youtube.com/watch?v=83dLApZe4TI",
           "thumbnail": "https://i.ytimg.com/vi/83dLApZe4TI/maxresdefault.jpg",
           "publishedAt": "2025-02-07T22:41:37Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Búsqueda de justicia (Tarea)",
+          "url": "https://www.youtube.com/watch?v=aEA14D50Qdc",
+          "thumbnail": "https://i.ytimg.com/vi/aEA14D50Qdc/maxresdefault.jpg",
+          "publishedAt": "2025-02-07T17:59:20Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Víctima (Misión Secundaria)",
+          "url": "https://www.youtube.com/watch?v=UO49Jf3ZDUA",
+          "thumbnail": "https://i.ytimg.com/vi/UO49Jf3ZDUA/maxresdefault.jpg",
+          "publishedAt": "2025-02-07T17:57:01Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Clavo en el ataúd (Tarea)",
+          "url": "https://www.youtube.com/watch?v=RagZlRI6Byo",
+          "thumbnail": "https://i.ytimg.com/vi/RagZlRI6Byo/maxresdefault.jpg",
+          "publishedAt": "2025-02-07T17:54:49Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - ¡Basta! (Tarea)",
+          "url": "https://www.youtube.com/watch?v=IxRSq0nKi0o",
+          "thumbnail": "https://i.ytimg.com/vi/IxRSq0nKi0o/maxresdefault.jpg",
+          "publishedAt": "2025-02-07T17:52:25Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Esqueleto en el armario (Tarea)",
+          "url": "https://www.youtube.com/watch?v=vXbj2ECOLEc",
+          "thumbnail": "https://i.ytimg.com/vi/vXbj2ECOLEc/maxresdefault.jpg",
+          "publishedAt": "2025-02-07T17:49:48Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Bellatores  (Misión Secundaria)",
+          "url": "https://www.youtube.com/watch?v=xZlfsSIkdVg",
+          "thumbnail": "https://i.ytimg.com/vi/xZlfsSIkdVg/maxresdefault.jpg",
+          "publishedAt": "2025-02-07T17:47:30Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - La guarida del dragón (Misión Secundaria)",
+          "url": "https://www.youtube.com/watch?v=ztdzuJvjLWc",
+          "thumbnail": "https://i.ytimg.com/vi/ztdzuJvjLWc/maxresdefault.jpg",
+          "publishedAt": "2025-02-07T17:43:35Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Mapa del ayudante Ventza (Localización y solución)",
+          "url": "https://www.youtube.com/watch?v=72k-AwDH4CE",
+          "thumbnail": "https://i.ytimg.com/vi/72k-AwDH4CE/maxresdefault.jpg",
+          "publishedAt": "2025-02-07T04:49:56Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Mapa del ganado cerca de Slatego (Localización y solución)",
+          "url": "https://www.youtube.com/watch?v=z_4FZhazZ8A",
+          "thumbnail": "https://i.ytimg.com/vi/z_4FZhazZ8A/maxresdefault.jpg",
+          "publishedAt": "2025-02-07T04:24:37Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Easter egg de Elden Ring (Let me solo her)",
+          "url": "https://www.youtube.com/watch?v=UV1Oy_VMmXo",
+          "thumbnail": "https://i.ytimg.com/vi/UV1Oy_VMmXo/maxresdefault.jpg",
+          "publishedAt": "2025-02-07T02:47:33Z"
         },
         {
           "title": "Kingdom Come Deliverance II - ¿Cómo conseguir el Trofeo / Logro \"Recuerda, recuerda...\"?",
@@ -30791,6 +31055,24 @@
           "url": "https://www.youtube.com/watch?v=WB-F7IUPnR8",
           "thumbnail": "https://i.ytimg.com/vi/WB-F7IUPnR8/maxresdefault.jpg",
           "publishedAt": "2025-02-07T01:50:27Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Rescate (Misión Secundaria)",
+          "url": "https://www.youtube.com/watch?v=jkIpV1cV8iM",
+          "thumbnail": "https://i.ytimg.com/vi/jkIpV1cV8iM/maxresdefault.jpg",
+          "publishedAt": "2025-02-07T00:27:45Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - El testamento (Tarea)",
+          "url": "https://www.youtube.com/watch?v=aADmKzEqVWY",
+          "thumbnail": "https://i.ytimg.com/vi/aADmKzEqVWY/maxresdefault.jpg",
+          "publishedAt": "2025-02-07T00:24:17Z"
+        },
+        {
+          "title": "Kingdom Come Deliverance II - Marca de la hermandad (Misión Secundaria)",
+          "url": "https://www.youtube.com/watch?v=76aCR9iX0v4",
+          "thumbnail": "https://i.ytimg.com/vi/76aCR9iX0v4/maxresdefault.jpg",
+          "publishedAt": "2025-02-07T00:20:04Z"
         },
         {
           "title": "Kingdom Come Deliverance II - Torneo de Kutná Hora (Misión Secundaria)",
