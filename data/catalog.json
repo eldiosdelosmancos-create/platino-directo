@@ -1,14 +1,20 @@
 {
   "channelUrl": "https://www.youtube.com/channel/UCTzl2vYpWCOkWnG0KRNEAzQ",
-  "generatedAt": "2026-10-28T13:16:39.211Z",
+  "generatedAt": "2026-10-28T19:08:31.381Z",
   "games": [
     {
       "id": "PLri3WTYegpZCNExL40e5LVHVDDRJn9ieH",
       "title": "Crimson Desert",
       "description": "Gameplay y guía completos para el platino de Crimson Desert",
-      "thumbnail": "https://i.ytimg.com/vi/9YDB2995Lq8/maxresdefault.jpg",
-      "updatedAt": "2026-10-28T11:34:33Z",
+      "thumbnail": "https://i.ytimg.com/vi/PY_s4TE7-is/maxresdefault.jpg",
+      "updatedAt": "2026-10-28T17:33:00Z",
       "videos": [
+        {
+          "title": "¿Cómo obtener el Conocimiento de los 94 Planos de piezas del Abismo? | Crimson Desert",
+          "url": "https://www.youtube.com/watch?v=PY_s4TE7-is",
+          "thumbnail": "https://i.ytimg.com/vi/PY_s4TE7-is/maxresdefault.jpg",
+          "publishedAt": "2026-10-28T17:33:00Z"
+        },
         {
           "title": "¿Cómo conseguir el Estoque de la estirpe caída? | Crimson Desert",
           "url": "https://www.youtube.com/watch?v=9YDB2995Lq8",
