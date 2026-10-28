@@ -1,14 +1,26 @@
 {
   "channelUrl": "https://www.youtube.com/channel/UCTzl2vYpWCOkWnG0KRNEAzQ",
-  "generatedAt": "2026-10-27T19:01:06.868Z",
+  "generatedAt": "2026-10-28T01:20:04.703Z",
   "games": [
     {
       "id": "PLri3WTYegpZCNExL40e5LVHVDDRJn9ieH",
       "title": "Crimson Desert",
       "description": "Gameplay y guía completos para el platino de Crimson Desert",
-      "thumbnail": "https://i.ytimg.com/vi/z3HLs13kQPE/maxresdefault.jpg",
-      "updatedAt": "2026-10-27T17:12:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/h9m9LKnTAPA/maxresdefault.jpg",
+      "updatedAt": "2026-10-28T00:28:52Z",
       "videos": [
+        {
+          "title": "Respuestas correctas en la misión \"Cosecha codiciosa\" | Crimson Desert",
+          "url": "https://www.youtube.com/watch?v=h9m9LKnTAPA",
+          "thumbnail": "https://i.ytimg.com/vi/h9m9LKnTAPA/maxresdefault.jpg",
+          "publishedAt": "2026-10-28T00:28:52Z"
+        },
+        {
+          "title": "Respuestas correctas en la misión \"La verdad entre las arenas\" | Crimson Desert",
+          "url": "https://www.youtube.com/watch?v=g6pgakB_tXc",
+          "thumbnail": "https://i.ytimg.com/vi/g6pgakB_tXc/maxresdefault.jpg",
+          "publishedAt": "2026-10-27T21:38:24Z"
+        },
         {
           "title": "Respuestas correctas en la misión \"Sombras en la aldea\" | Crimson Desert",
           "url": "https://www.youtube.com/watch?v=z3HLs13kQPE",
