@@ -1,14 +1,20 @@
 {
   "channelUrl": "https://www.youtube.com/channel/UCTzl2vYpWCOkWnG0KRNEAzQ",
-  "generatedAt": "2026-10-28T07:18:33.981Z",
+  "generatedAt": "2026-10-28T13:16:39.211Z",
   "games": [
     {
       "id": "PLri3WTYegpZCNExL40e5LVHVDDRJn9ieH",
       "title": "Crimson Desert",
       "description": "Gameplay y guía completos para el platino de Crimson Desert",
-      "thumbnail": "https://i.ytimg.com/vi/h9m9LKnTAPA/maxresdefault.jpg",
-      "updatedAt": "2026-10-28T00:28:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/9YDB2995Lq8/maxresdefault.jpg",
+      "updatedAt": "2026-10-28T11:34:33Z",
       "videos": [
+        {
+          "title": "¿Cómo conseguir el Estoque de la estirpe caída? | Crimson Desert",
+          "url": "https://www.youtube.com/watch?v=9YDB2995Lq8",
+          "thumbnail": "https://i.ytimg.com/vi/9YDB2995Lq8/maxresdefault.jpg",
+          "publishedAt": "2026-10-28T11:34:33Z"
+        },
         {
           "title": "Respuestas correctas en la misión \"Cosecha codiciosa\" | Crimson Desert",
           "url": "https://www.youtube.com/watch?v=h9m9LKnTAPA",
